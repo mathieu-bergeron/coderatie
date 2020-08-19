@@ -1,0 +1,58 @@
+theme = "chunky_dates_fr"
+
+
+[languages]
+    [languages.en]
+        title = "Coderacy"
+        description = "Computer literacy is not enough. We need Code literacy."
+        #homepageImage = "/images/logo_a_la_main.png"
+        baseURL = "http://en.coderatie.org/"
+        contentDir = "content/en"
+        languageName = "English"
+        languageCode = "en-us"
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+                identifier = "stakes"
+                name = "What's at stake"
+                url = "/stakes"
+                weight=5
+            [[languages.en.menu.main]]
+                identifier = "vision"
+                name = "Our vision"
+                url = "/vision"
+                weight=10
+            [[languages.en.menu.main]]
+                identifier = "how-to-help"
+                name = "How can I help?"
+                url = "/how-to-help"
+    [languages.fr]
+        title = "Codératie"
+        description = "Au delà de la littératie numérique, il faut promouvoir une littératie du Code."
+        #homepageImage = "/images/logo_a_la_main.png"
+        baseURL = "http://coderatie.org/"
+        contentDir = "content/fr"
+        languageName = "Français"
+        languageCode = "fr-ca"
+        [languages.fr.menu]
+            [[languages.fr.menu.main]]
+                identifier = "stakes"
+                name = "Les enjeux"
+                url = "/les-enjeux"
+                weight=5
+            [[languages.fr.menu.main]]
+                identifier = "vision"
+                name = "Notre vision"
+                url = "/vision"
+                weight=10
+            [[languages.fr.menu.main]]
+                identifier = "how-to-help"
+                name = "Comment puis-je aider?"
+                url = "/comment-aider"
+
+[params]
+    showLanguageSwitcher = true
+
+    [params.social]
+        rss = true
+        email = "mathieu.bergeron@cmontmorency.qc.ca"
+        github = "https://github.com/mathieu-bergeron/coderatie"

@@ -1,0 +1,111 @@
+<footer class="footer text-center bg-dark py-6">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <ul class="list-inline">
+                    {{ if .Site.Params.social.rss -}}
+                    <li class="list-inline-item">
+                        {{- with .Site.GetPage "" -}}
+                            {{- with .OutputFormats.Get "RSS" -}}
+                                <a href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" class="icons d-block">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            {{- end -}}
+                        {{- end -}}
+                    </li>
+                    {{- end -}}
+                    {{- if .Site.Params.social.email -}}
+                    <li class="list-inline-item">
+                        <a href="mailto://{{ .Site.Params.social.email }}" class="icons d-block">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {{- end -}}
+                    {{- range $name, $path := .Site.Params.social -}}
+                        {{- if and $path (not (in (slice "rss" "email") $name)) -}}
+                        <li class="list-inline-item">
+                            <a href="{{ $path | safeURL }}" class="icons d-block">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fab fa-{{ $name }} fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        {{- end -}}
+                    {{- end }}
+                </ul>
+
+				<p class="text-muted">
+
+                {{ if eq .LanguagePrefix "/en" }}
+
+                    <a href="/about">About</a>
+
+                {{ else }}
+
+                    <a href="/apropos">À propos</a>
+
+                {{ end }}
+
+
+                &nbsp;&nbsp;   | &nbsp;&nbsp;  
+            {{ if .IsTranslated }}
+                {{ range .Translations }}
+	                <a href="{{ .Permalink }}">{{ .Lang }}</a>
+                {{ end}}
+            {{ end }}
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+
+
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                	<img alt="Creative Commons License" style="border-width:0" src="/images/cc_88x31.png"/>
+                </a>
+                <br/>
+
+                    {{ if eq .LanguagePrefix "/en" }}
+                    
+                		This work is licensed under a 
+
+                    {{ else }}
+
+						Le contenu de ce site est sous licence
+
+
+                    {{ end }}
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International 
+                    {{ if eq .LanguagePrefix "/en" }}
+                    
+						License
+
+                    {{ else }}
+
+                    {{ end }}</a>
+                </p>
+
+				<!--
+                <p class="text-muted">
+                    {{ if .Site.Copyright }}
+                        {{ .Site.Copyright | safeHTML }}
+                    {{ else }}
+                        Copyright &copy; {{ .Site.Title }} {{ now.Year }}
+                    {{ end }}
+                </p> -->
+
+					
+				<!--
+                <p class="text-muted">
+                Powered by <a href="https://gohugo.io" target="_blank">Hugo</a> with <a href="https://github.com/puresyntax71/hugo-theme-chunky-poster" target="_blank">Chunky Poster</a>.
+                </p> -->
+            </div>
+        </div>
+    </div>
+</footer>
