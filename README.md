@@ -13,3 +13,5 @@ Il s'agit d'un site Hugo.
 Le contenu est dans `content/fr`
 
 Le nom des fichiers est en anglais.
+
+Test
