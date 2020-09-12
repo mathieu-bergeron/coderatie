@@ -35,7 +35,7 @@ slug: "comment-aider"
 
 * À notre avis, nous avons besoin de plus de projets de ce genre:
 
-    1. <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">IA explicable</a>
+    1. <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">IA explicable 🔗</a>
         * Rendre l'apprentissage machine plus intelligible. En particulier,
           trouver des techniques capables de fournir une explication vulgarisée
           pour chaque décision du système (et non seulement des tendances
