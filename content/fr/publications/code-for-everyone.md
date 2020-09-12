@@ -27,13 +27,13 @@ Répondons tout de suite à deux objections:
 1. «C'est déjà assez difficile d'enseigner la langue et les mathématiques. On ne peut pas se permettre d'ajouter une nouvelle discipline.»
 1. «Mais je n'ai pas envie d'apprendre la programmation!»
 
-Concernant 1), nous croyons aussi qu'il s'agirait d'une erreur de voir la programmation comme une discipline *à part*.
+Concernant 1), nous croyons qu'il ne faut pas voir la programmation comme une discipline *à part*.
 Les cours dédiés uniquement à la programmation ont leur place, bien sûr, par exemple pour celles et ceux qui veulent en faire un métier.
 Mais pour le grand public, il sera beaucoup plus agréable et productif d'intégrer l'enseignement de la programmation à d'autres disciplines.
 Dans certains cas, cet intégration pourrait même faciliter l'enseignement de certaines de notions ardues (la grammaire par exemple).
 
 Concernant 2), rappelons que c'est en pensant à l'avenir que nous désirons un enseignement de la programmation à tous les niveaux.
-La question devrait être: «Est-ce que je pense les enfants d'aujourd'hui seraient mieux équipés pour affronter la vie moderne en connaissant la programmation?».
+La question devrait être: «Est-ce que je pense que les enfants d'aujourd'hui seraient mieux équipés pour affronter la vie moderne en connaissant la programmation?».
 J'en profites pour saluer le courage de tant de nos aïeux (je pense à ma grand-mère paternelle), qui ont insisté pour que leurs enfants reçoivent la meilleure éducation possible, alors qu'eux n'y avaient à peu près pas eu accès. 
 C'est exactement l'attitude que nous nous devons d'avoir concernant la programmation.
 
