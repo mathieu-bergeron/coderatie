@@ -12,7 +12,7 @@ slug: "vision"
   outils informatiques seront très différents de ceux que nous connaissons
   aujourd'hui
 
-* Le logiciel libre est un avant-goût de ce futur: des outils
+* Le logiciel libre est un avant-goût de cet avenir: des outils
   transparents, qui respectent la vie privée, qui donnent le contrôle aux humains
   et qui ne dissimulent pas de tactiques d'exploitation économique.
 
@@ -21,7 +21,7 @@ slug: "vision"
 
 * Mais il y a encore plus: apprendre à programmer est la voie royale pour comprendre 
   quelles sont les réelles posibilités de l'informatique et pour 
-  acquérir une pensée critique face aux nouvelles technologies
+  formuler des critiques constructives des nouvelles technologies.
 
 * Et finalement, le rêve: la délibération entourant le code source deviendra
   une nouvelle façon pour le citoyen de faire valoir ses droits.  À terme, nous
