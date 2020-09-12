@@ -29,7 +29,8 @@ echo "REMINDER: we publish from github/master"
 echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
 
 
-git commit -a -m"auto-commit $(date)"
+git add .
+git commit -a -m"publish.sh auto-commit $(date)"
 git push
 
 git checkout master
