@@ -25,14 +25,11 @@ save_dir
 
 cd "$root_dir"
 
-reminder_message
 
 auto_commit
 
 git merge --no-edit master
 
-
-
-
+reminder_message
 
 restore_dir
