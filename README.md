@@ -2,13 +2,13 @@
 
 ## English
 
-This is a Hugo site.
+This is a [https://gohugo.io/](Hugo) site.
 
 Content is in `content/en`
 
 ## Français
 
-Il s'agit d'un site Hugo.
+Il s'agit d'un site [https://gohugo.io/](Hugo).
 
 Le contenu est dans `content/fr`
 
