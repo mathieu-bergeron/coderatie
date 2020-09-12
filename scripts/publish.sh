@@ -25,15 +25,19 @@ save_dir
 
 cd "$root_dir"
 
-echo "REMINDER: we publish from github/master. Changes in ciboulot/mbergeron "
+echo "REMINDER: we publish from github/master"
 echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
 
 git checkout master
 git push
 
-cd "$scripts_dir"
+# refresh public
+rm -rf public
+hugo
 
-sh refresh_public.sh
-sh rsync_to_server.sh
+# rsync to server
+rsync -r --delete public/* coderatie.org:~/perso/coderatie/
+
+git checkout mbergeron
 
 restore_dir
