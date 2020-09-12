@@ -15,37 +15,24 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with aquiletour.  If not, see <https://www.gnu.org/licenses/>
 
-root_dir=$(dirname "$scripts_dir")
+##### INCLUDE #####
+this_dir=$(readlink -f $0)
+scripts_dir=$(dirname "$this_dir")
+. "$scripts_dir/include.sh"
+###################
 
-script_name=$(basename $(readlink -f $0))
+save_dir
 
-save_dir(){
+cd "$root_dir"
 
-    current_dir=$(pwd)
+reminder_message
 
-}
+auto_commit
 
-restore_dir(){
-
-    cd "$current_dir"
-
-}
-
-reminder_message(){
-    echo ""
-    echo ""
-    echo "REMINDER: we publish from github/master"
-    echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
-    echo ""
-    echo ""
-    echo ""
-}
-
-auto_commit(){
-    git add .
-    git commit -a -m"$script_name auto-commit $(date)"
-}
+git merge --no-edit master
 
 
 
 
+
+restore_dir

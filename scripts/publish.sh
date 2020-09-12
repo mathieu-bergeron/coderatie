@@ -37,8 +37,7 @@ reminder_message(){
 
 reminder_message
 
-git add .
-git commit -a -m"publish.sh auto-commit $(date)"
+auto_commit
 git push
 
 git checkout master
