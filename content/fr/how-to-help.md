@@ -13,7 +13,7 @@ slug: "comment-aider"
   
 * Toujours parmi nous? Bien. On a besoin de votre énergie et de votre créativité.
 
-* [Nous contacter]({{< ref about.md>}})
+* [Nous contacter](/apropos)
 
 ## Comme citoyen, politicienne ou juriste
 
