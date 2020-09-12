@@ -25,8 +25,13 @@ save_dir
 
 cd "$root_dir"
 
+echo ""
+echo ""
 echo "REMINDER: we publish from github/master"
 echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
+echo ""
+echo ""
+echo ""
 
 
 git add .
