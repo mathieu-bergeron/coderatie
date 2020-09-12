@@ -36,7 +36,7 @@ Répondons tout de suite à deux objections:
 Concernant 1), nous ne croyons pas qu'il faille nécessairement enseigner la programmation comme une discipline à part.
 Les cours dédiés uniquement à la programmation ont leur place, bien sûr, en particulier pour celles et ceux qui veulent en faire un métier.
 Mais pour le grand public, il sera beaucoup plus agréable et productif d'intégrer l'enseignement de la programmation à d'autres disciplines.
-Dans certains cas, cette intégration pourrait même faciliter l'enseignement de certaines de notions ardues (la grammaire par exemple).
+Dans certains cas, cette intégration pourrait même faciliter l'enseignement de notions particulièrement ardues (la grammaire par exemple).
 
 Concernant 2), rappelons que c'est en pensant à l'avenir que nous désirons un enseignement de la programmation à tous les niveaux.
 La question devrait être: «Est-ce que je pense que les enfants d'aujourd'hui seraient mieux équipés pour affronter la vie moderne en connaissant la programmation?».
