@@ -8,9 +8,9 @@ Comment enseigner la programmation à tous les niveaux.
 <!--more-->
 
 
-### L'informatique est multi-disciplinaire
+### L'informatique est multidisciplinaire
 
-D'abord, notons que l'informatique moderne est profondément multi-disciplinaire. 
+D'abord, notons que l'informatique moderne est profondément multidisciplinaire. 
 La recherche en informatique est très souvent articulée autour d'un trait d'union: bio-informatique, linguistique-informatique, musique-informatique, etc.
 
 Les professeurs d'université en sciences de la nature, incluant les sciences de la santé, réclament déjà un enseignement de la programmation au collégial. 
@@ -34,7 +34,7 @@ Dans certains cas, cet intégration pourrait même faciliter l'enseignement de c
 
 Concernant 2), rappelons que c'est en pensant à l'avenir que nous désirons un enseignement de la programmation à tous les niveaux.
 La question devrait être: «Est-ce que je pense les enfants d'aujourd'hui seraient mieux équipés pour affronter la vie moderne en connaissant la programmation?».
-J'en profites pour saluer le courage de tant de nos aïeux (je pense à ma grand-mère parternelle), qui ont insisté pour que leurs enfants recoivent la meilleure éducation possible, alors qu'eux n'y avaient à peu près pas eu accès. 
+J'en profites pour saluer le courage de tant de nos aïeux (je pense à ma grand-mère paternelle), qui ont insisté pour que leurs enfants reçoivent la meilleure éducation possible, alors qu'eux n'y avaient à peu près pas eu accès. 
 C'est exactement l'attitude que nous nous devons d'avoir concernant la programmation.
 
 
