@@ -17,7 +17,7 @@ economic exploitation.
 the possibilities for experimentation and creation explode.
 
 * But there's even more: learning to program is the very best way to understand
-how software works and to think critically about new technologies.
+how software works and to learn to formulate constructive criticism about new technologies.
 
 * And finally, our dream: deliberation around source code will become a new way for citizens to defend their rights.
 In term, we are dreaming of nothing less than the emergence of a new democratic space.

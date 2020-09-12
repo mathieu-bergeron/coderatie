@@ -7,6 +7,7 @@ slug: "logiciel-libre"
 Viser une liberté totale pour l'utilisateur
 équivaut à abandonner le bien commun.
 <!--more-->
+<<<<<<< HEAD
 
 ### Liberté presque totale
 
@@ -21,3 +22,5 @@ On veut beaucoup de liberté
 
 
 
+=======
+>>>>>>> master

@@ -8,6 +8,7 @@ Avec le code, les possibilités d'expérimentation et de création explosent.
 La littératie numérique ne suffit pas.
 
 <!--more-->
+<<<<<<< HEAD
 
 ### Les langages de programmation
 
@@ -50,3 +51,5 @@ Avec un interface graphique, l'ergonomie est difficile. Avec un langage, c'est e
 1. Consistency
 
 -->
+=======
+>>>>>>> master

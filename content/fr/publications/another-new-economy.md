@@ -6,6 +6,7 @@ slug: "autre-nouvelle-economie"
 
 L'informatique s'insinue partout. Et si elle le faisait en soutenant plutot qu'en perturbant?
 <!--more-->
+<<<<<<< HEAD
 
 
 Si on imagine juste un peu plus loin l'idée de contrôle démocratique sur la redistribution du revenu,
@@ -17,3 +18,5 @@ Autrement dit, la question n'est pas de redistribuer les revenus entre conducteu
 
 Béru ne pourrait pas exister, il s'agirait simplement d'une des branches (la division transport) d'un système beaucoup plus vaste de développement et de partage de revenus.
 
+=======
+>>>>>>> master

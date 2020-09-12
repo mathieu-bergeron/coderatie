@@ -7,6 +7,7 @@ slug: "quand-les-outils-decident"
 Comment les applications influencent nos décisions et corrompent la
 démocratie.
 <!--more-->
+<<<<<<< HEAD
 
 ### Qui contrôle qui
 
@@ -15,3 +16,5 @@ démocratie.
 
 <!--more-->
 
+=======
+>>>>>>> master
