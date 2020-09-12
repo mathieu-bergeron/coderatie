@@ -30,6 +30,8 @@ auto_commit
 
 git merge --no-edit master
 
+auto_commit
+
 reminder_message
 
 restore_dir
