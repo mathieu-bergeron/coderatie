@@ -28,7 +28,7 @@ cd "$root_dir"
 
 auto_commit
 
-git merge --no-edit master
+git merge -Xtheirs --no-edit master
 
 auto_commit
 
