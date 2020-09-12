@@ -33,8 +33,8 @@ Répondons tout de suite à deux objections:
 <br>
 <br>
 
-Concernant 1), nous croyons pas qu'il faille enseigner la programmation comme une discipline à part.
-Les cours dédiés uniquement à la programmation ont leur place, bien sûr, par exemple pour celles et ceux qui veulent en faire un métier.
+Concernant 1), nous ne croyons pas qu'il faille nécessairement enseigner la programmation comme une discipline à part.
+Les cours dédiés uniquement à la programmation ont leur place, bien sûr, en particulier pour celles et ceux qui veulent en faire un métier.
 Mais pour le grand public, il sera beaucoup plus agréable et productif d'intégrer l'enseignement de la programmation à d'autres disciplines.
 Dans certains cas, cette intégration pourrait même faciliter l'enseignement de certaines de notions ardues (la grammaire par exemple).
 
@@ -67,7 +67,8 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
 
 À noter que chacun des obstacles ci-haut est exacerbé par le fait que
 les langages de programmation généralistes s'adressent à des programmeurs
-professionnels.
+professionnels. Il existe déjà des langages conçus pour les débutants 
+qui réduisent significativement ces difficultés.
 
 <!--
 
