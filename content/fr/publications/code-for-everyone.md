@@ -27,7 +27,13 @@ Répondons tout de suite à deux objections:
 1. «C'est déjà assez difficile d'enseigner la langue et les mathématiques. On ne peut pas se permettre d'ajouter une nouvelle discipline.»
 1. «Mais je n'ai pas envie d'apprendre à programmer!»
 
-Concernant 1), nous croyons qu'il ne faut pas enseigner la programmation comme une discipline *à part*.
+<br>
+<div style="text-align:right;"><a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">(ps: quelles sont les votres?)</a></div>
+
+<br>
+<br>
+
+Concernant 1), nous croyons pas qu'il faille enseigner la programmation comme une discipline à part.
 Les cours dédiés uniquement à la programmation ont leur place, bien sûr, par exemple pour celles et ceux qui veulent en faire un métier.
 Mais pour le grand public, il sera beaucoup plus agréable et productif d'intégrer l'enseignement de la programmation à d'autres disciplines.
 Dans certains cas, cette intégration pourrait même faciliter l'enseignement de certaines de notions ardues (la grammaire par exemple).
@@ -37,17 +43,21 @@ La question devrait être: «Est-ce que je pense que les enfants d'aujourd'hui s
 J'en profites pour saluer le courage de tant de nos aïeux (je pense à ma grand-mère paternelle), qui ont insisté pour que leurs enfants reçoivent la meilleure éducation possible, alors qu'eux n'y avaient à peu près pas eu accès. 
 C'est exactement l'attitude que nous nous devons d'avoir concernant la programmation.
 
-
-
-
 ### Les principaux bloquants à surmonter
 
-1. Apprendre un langage formel
-    * syntaxe
-    * sémantique
-1. Sémantique contre-intuitive
-1. La lourdeur des outils
+Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de frustration, et ce,
+malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
+Il est tout à fait compréhensible que l'idée même d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
+En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref we-need-code.md>}}),
+alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la [liberté de ses usagers]({{<ref when-tools-decide.md>}}).
 
+Néanmoins, il existe des obstracles bien réels à l'apprentissage de la programmation.
+
+
+
+1. Syntaxe formelle
+1. Sémantique contre-intuitive
+1. Lourdeur des outils
 
 <!--
 
@@ -79,4 +89,11 @@ C'est exactement l'attitude que nous nous devons d'avoir concernant la programma
 
 ### L'exemple de Scratch
 
-Comme <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" target="_blank">scratch 🔗</a>
+L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" target="_blank">scratch 🔗</a> du MIT est un exemple intéressant:
+
+1. La syntaxe est formée de blocs graphiques qu'on peut combiner 
+    * un peu comme des mots aimantés sur un frigo
+1. La sémantique est intuitive: le programme permet d'animer des images 
+    * créant ainsi de petits jeux vidéo
+1. Il s'agit d'une application Web 
+    * il n'y a rien à installer ou configurer
