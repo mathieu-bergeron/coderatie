@@ -28,7 +28,7 @@ Répondons tout de suite à deux objections:
 1. «Mais je n'ai pas envie d'apprendre à programmer!»
 
 <br>
-<div style="text-align:right;"><a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">(ps: quelles sont les vôtres?)</a></div>
+<div style="text-align:right;">(<a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">ps: quelles sont les vôtres?</a>)</div>
 
 <br>
 <br>
