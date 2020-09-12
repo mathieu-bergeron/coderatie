@@ -1,7 +1,6 @@
 ---
 title: "Le problème avec le logiciel libre"
 date: 2020-08-19T12:50:58-04:00
-draft: true
 slug: "logiciel-libre"
 ---
 
