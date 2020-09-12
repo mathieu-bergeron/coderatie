@@ -1,5 +1,9 @@
 theme = "chunky_dates_fr"
 
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+            unsafe = true
 
 [languages]
     [languages.en]
