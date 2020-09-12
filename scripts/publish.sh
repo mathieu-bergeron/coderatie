@@ -25,14 +25,17 @@ save_dir
 
 cd "$root_dir"
 
-echo ""
-echo ""
-echo "REMINDER: we publish from github/master"
-echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
-echo ""
-echo ""
-echo ""
+reminder_message(){
+    echo ""
+    echo ""
+    echo "REMINDER: we publish from github/master"
+    echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
+    echo ""
+    echo ""
+    echo ""
+}
 
+reminder_message
 
 git add .
 git commit -a -m"publish.sh auto-commit $(date)"
@@ -49,5 +52,8 @@ hugo
 rsync -r --delete public/* coderatie.org:~/perso/coderatie/
 
 git checkout mbergeron
+
+
+reminder_message
 
 restore_dir
