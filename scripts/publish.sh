@@ -28,6 +28,10 @@ cd "$root_dir"
 echo "REMINDER: we publish from github/master"
 echo "REMINDER: changes in ciboulot/mbergeron must be cherry-picked into github/master"
 
+
+git commit -a -m"auto-commit $(date)"
+git push
+
 git checkout master
 git push
 
