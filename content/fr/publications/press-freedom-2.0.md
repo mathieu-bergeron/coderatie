@@ -5,5 +5,5 @@ draft: true
 slug: "liberte-de-presse-2.0"
 ---
 
-La liberté informatique va devenir la nouvelle liberté de presse.
+La liberté informatique doit devenir la nouvelle liberté de presse.
 <!--more-->
