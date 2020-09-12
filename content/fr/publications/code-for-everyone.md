@@ -28,7 +28,7 @@ Répondons tout de suite à deux objections:
 1. «Mais je n'ai pas envie d'apprendre à programmer!»
 
 <br>
-<div style="text-align:right;"><a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">(ps: quelles sont les votres?)</a></div>
+<div style="text-align:right;"><a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">(ps: quelles sont les vôtres?)</a></div>
 
 <br>
 <br>
@@ -51,7 +51,7 @@ Il est tout à fait compréhensible que l'idée même d'ajouter une couche de co
 En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref we-need-code.md>}}),
 alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la [liberté de ses usagers]({{<ref when-tools-decide.md>}}).
 
-Néanmoins, il existe des obstracles bien réels à l'apprentissage de la programmation.
+Néanmoins, il existe des obstacles bien réels à l'apprentissage de la programmation.
 
 
 
