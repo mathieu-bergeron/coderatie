@@ -7,12 +7,10 @@ slug: "le-code-pour-tous"
 Comment enseigner la programmation à tous les niveaux.
 <!--more-->
 
-<<<<<<< HEAD
+### Comme `Scratch`?
+
+<a href="https://scratch.mit.edu/" target="_blank">Scratch 🔗</a>
 
 ### La programmation est transversale
 
 La programmation n'est **pas** indépendante de l'apprentissage des langues (grammaire) et des mathétiques.
-
-
-=======
->>>>>>> master
