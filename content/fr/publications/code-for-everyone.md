@@ -47,7 +47,7 @@ C'est exactement l'attitude que nous nous devons d'avoir concernant la programma
 
 Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de frustration, et ce,
 malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
-Il est tout à fait compréhensible que l'idée même d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
+Il est tout à fait compréhensible que l'idée d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
 En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref we-need-code.md>}}),
 alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la [liberté des usagers]({{<ref when-tools-decide.md>}}).
 
