@@ -1,11 +1,19 @@
 ---
 title: "Continuer à comprendre le monde"
-date: 2020-08-19T12:47:16-04:00
+date: 2020-08-18T12:47:16-04:00
 slug: "comprendre-le-monde"
 ---
 
 Quitte à apprendre de la machine.
 <!--more-->
 
-*[À VENIR]*
+### Degrés de compréhension
 
+### Rendre le sens intelligible
+
+On va avoir besoin de [plusieurs langages ou notations]({{<ref we-need-code.md>}}).
+
+
+<!--
+<a href="https://iris-recherche.qc.ca/blogue/l-autre-personnalite-de-la-decennie-les-expert-e-s?fbclid=IwAR3S89PVkX6B4YWMJval9FnQ5kYdA1ftoemB3As8Aso6WaX0imcuPEiRQX0" target="_blank">respecter l'expertise en démocratie</a>
+-->
