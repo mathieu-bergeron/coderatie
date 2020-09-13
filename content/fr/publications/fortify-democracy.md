@@ -23,7 +23,7 @@ d'information visant à payer les créateurs du code et à effectuer une redistr
 
 Utiliser le développement informatique comme support pour débattre et décider collectivement.
 
-Le bien commun est un idéal à atteindre. Un idéal à ré finir et redéfinir constamment.
+Le bien commun est un idéal à atteindre. Un idéal à redéfinir constamment.
 
 
 
