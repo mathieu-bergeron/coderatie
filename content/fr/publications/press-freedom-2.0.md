@@ -20,9 +20,9 @@ La presse conventionnelle est mal équipée pour critiquer ce nouveau pouvoir.
 Même chose pour les tribunaux. 
 Par le temps que les iniquités programmés d'un système informatique deviennent apparentes,
 il est trop tard: le système est déjà adopté et revenir en arrière est très difficile.
-Nous avons besoin d'un mécanisme pour discuter des applications en amont, alos qu'elles sont encore en cours de développement.
+Nous avons besoin d'un mécanisme pour discuter des applications en amont, alors qu'elles sont encore en cours de développement.
 
-Alors que les algorithmes s'inscruste dans notre quotidien, le citoyen se doit d'être représenté par des journalistes-informaticiens vigilants qui
+Alors que les algorithmes s'incruste dans notre quotidien, le citoyen se doit d'être représenté par des journalistes-informaticiens vigilants qui
 vont se donner comme mission d'inspecter le code source des systèmes informatiques grand public. Encore faut-il avoir accès à ce code!
 
 ### Le code fait loi

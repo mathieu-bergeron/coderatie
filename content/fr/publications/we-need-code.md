@@ -18,7 +18,7 @@ de contrôler l'ordinateur.
 Le code est au contraire un langage textuel.
 L'analogie avec les langues naturelles est éclairante:
 
-* Litératie numéritque
+* Littératie numérique
     * savoir utiliser l'ordinateur, c'est comme savoir lire et écrire uniquement avec des pictogrammes et des émojis.
 * Codératie
     * savoir programmer, c'est comme pouvoir lire et écrire en français.
@@ -33,7 +33,7 @@ La grande majorité (la totalité?) ont échoué.
 
 Comme pour les langages naturels, la puissance des langages de programmation vient de la possibilité 
 de créer facilement de nouvelles phrases (ou nouveaux programmes) à partir de règles relativement simples.
-C'est la possiblité de combiner plusieurs petits éléments afin de créer une plus grande phrase (un plus grand programme) 
+C'est la possibilité de combiner plusieurs petits éléments afin de créer une plus grande phrase (un plus grand programme) 
 que système plus simple n'arrive pas à remplacer (au delà de minuscules exemples, ces systèmes simples deviennent inintelligibles).
 
 Vouloir remplacer les langages de programmation par un système convivial, c'est comme dire:
