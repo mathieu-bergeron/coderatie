@@ -13,7 +13,7 @@ Avec le code, les possibilités d'expérimentation et de création explosent.
 La littératie numérique concerne l'utilisation de logiciels grand public, 
 mais exclus la compréhension du code (pour laquelle nous utilisons le terme codératie).
 
-Les logiciels grand public utilisent des analogies graphiques (comme le bureau, les dossiers, etc.) pour nous permettent
+Les logiciels grand public utilisent des analogies graphiques (comme le bureau, les dossiers, etc.) pour nous permettre
 de contrôler l'ordinateur.
 Le code est au contraire un langage textuel.
 L'analogie avec les langues naturelles est éclairante:
