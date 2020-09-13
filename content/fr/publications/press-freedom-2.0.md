@@ -4,5 +4,20 @@ date: 2020-08-25T03:22:41-04:00
 slug: "liberte-de-presse-2.0"
 ---
 
-La liberté informatique doit devenir la nouvelle liberté de presse.
+Inspecter le code source des systèmes informatiques
+affectant le grand public.
+
 <!--more-->
+
+### La liberté de presse ne suffit plus
+
+### Le code fait loi
+
+### Un nouveau contre-pouvoir
+
+Il faut s'inspirer du logiciel libre ([même si ce dernier doit être amélioré]({{<ref whats-wrong-with-freedom>}})).
+
+
+
+
+
