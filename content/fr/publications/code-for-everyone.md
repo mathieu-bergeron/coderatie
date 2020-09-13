@@ -42,13 +42,24 @@ La question devrait être: «Est-ce que je pense que les enfants d'aujourd'hui s
 J'en profites pour saluer le courage de tant de nos aïeux (je pense à ma grand-mère paternelle), qui ont insisté pour que leurs enfants reçoivent la meilleure éducation possible, alors qu'eux n'y avaient à peu près pas eu accès. 
 C'est exactement l'attitude que nous nous devons d'avoir concernant la programmation.
 
+### Mais avec quel objectif?
+
+Un taux critique d'individus habilités à comprendre le code source permettra l'émergence d'un [nouveau contre-pouvoir]({{<ref press-freedom-2.0.md>}}) 
+dont nous avons grandement besoin pour fortifier nos démocraties. 
+
+En ce moment, le taux de codératie est si bas qu'à peu près tous les programmeurs sont affairés à créer des systèmes informatiques, ce qui en laisse très peu pour les 
+vulgariser, les critiquer et réfléchir aux enjeux qu'ils soulèvent. C'est comme si tous les juristes au monde étaient à l'emploi des gouvernements: il ne resterait personne pour lire les lois, les critiquer et le vulgariser.
+
+Ou plus directement: les systèmes informatiques sont devenus des lois de facto dans nos sociétés modernes. Le citoyen devrait pouvoir lire ses lois.
+
+
 ### Les principaux bloquants à surmonter
 
 Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de frustration, et ce,
 malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
 Il est tout à fait compréhensible que l'idée d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
 En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref we-need-code.md>}}),
-alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la [liberté des usagers]({{<ref when-tools-decide.md>}}).
+alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la [liberté des usagers]({{<ref software-freedom.md>}}).
 
 Néanmoins, il existe des obstacles bien réels à l'apprentissage de la programmation.
 
@@ -107,3 +118,5 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
     * on crée ainsi des petits jeux vidéo
 1. Il s'agit d'une application Web 
     * il n'y a rien à installer ou configurer
+
+
