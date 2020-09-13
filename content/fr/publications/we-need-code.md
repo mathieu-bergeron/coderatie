@@ -31,10 +31,13 @@ On voit clairement comment la littératie numérique équivaut, en terme d'infor
 Il y a eu plusieurs tentatives pour remplacer les langages de programmation par quelque chose qui peut semble à première vue plus simple.
 La grande majorité (la totalité?) ont échoué.
 
-Comme pour les langages naturels, la puissance des langages de programmation vient de la possibilité 
-de créer facilement de nouvelles phrases (ou nouveaux programmes) à partir de règles relativement simples.
-C'est la possibilité de combiner plusieurs petits éléments afin de créer une plus grande phrase (un plus grand programme) 
-que système plus simple n'arrive pas à remplacer (au delà de minuscules exemples, ces systèmes simples deviennent inintelligibles).
+Comme pour les langages naturels, la puissance des langages de programmation
+vient de la possibilité de créer facilement de nouvelles phrases (ou nouveaux
+programmes) à partir de règles relativement simples.  C'est la possibilité de
+combiner plusieurs petits éléments afin de créer une plus grande phrase (un
+plus grand programme) que les systèmes plus simple n'arrivent pas à répliquer
+(en effet, au delà d'exemples minuscules, ces systèmes simples deviennent plus
+complexes que le code).
 
 Vouloir remplacer les langages de programmation par un système convivial, c'est comme dire:
 
