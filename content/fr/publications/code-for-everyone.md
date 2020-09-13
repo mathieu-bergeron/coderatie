@@ -4,7 +4,7 @@ date: 2020-08-29T03:22:41-04:00
 slug: "le-code-pour-tous"
 ---
 
-Comment enseigner la programmation à tous les niveaux.
+Enseigner la programmation à tous les niveaux.
 <!--more-->
 
 
@@ -29,7 +29,6 @@ Répondons tout de suite à deux objections:
 
 <br>
 <div style="text-align:right;">(<a href="mailto:mathieu.bergeron@cmontmorency.qc.ca">ps: quelles sont les vôtres?</a>)</div>
-
 <br>
 <br>
 
