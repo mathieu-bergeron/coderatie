@@ -9,19 +9,33 @@ L'informatique s'insinue partout. Et si elle le faisait en soutenant plutot qu'e
 
 ### La course aux monopoles
 
+La nouvelle économie, basée sur systèmes informatiques, a profondément desservi l'humanité.
+Elle est tout sauf une fondation solide pour un avenir prospère et paisible.
+Au contraire, elle s'articule autour de plateformes, ou monopoles.
+Les logiciels commerciaux sont volontairement <a href="https://ici.radio-canada.ca/nouvelle/1101238/montreal-logiciel-materiel-libre-francois-croteau" target="_blank">menottant</a>:
+une fois qu'on a commencé à les utiliser, on devient prisonnier:
+passer à un autre logiciel ou développer une autre façon de travailler est souvent tellement coûteux en temps que ça devient irréaliste.
+
 ### Briser les plateformes en mille morceaux
 
-Si on imagine juste un peu plus loin l'idée de contrôle démocratique sur la redistribution du revenu,
-on voit que Béru ne pourrait avoir des objectifs nets.
+La réelle réponse aux plateformes n'est pas dans la concurrence d'autres plateformes (même si une plateforme libre serait préférable à une plateforme privatrice).
 
-Au contraire, une fois un système de redistribution en place, il va s'étendre à d'autres domaines.
+La réelle réponse ne sera accessible à l'humanité qu'une fois un taux critique de codératie atteint: briser les plateformes en mille morceaux et
+laisser chacun créer ses propres outils informatiques en re-combinant ces morceaux. C'est souvent ce que les programmeurs font. 
+Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blank">vision</a> a d'ailleurs été énoncée clairement très tôt dans la courte vie de l'informatique.
 
-Autrement dit, la question n'est pas de redistribuer les revenus entre conducteurs, mais de joindre un débat plus grand de redistribution de revenus dans la société.
+* Un outil doit faire une seule chose et le faire bien
+* Les outils doivent collaborer facilement entre eux
+* Les données doivent être lisibles
 
-Béru ne pourrait pas exister, il s'agirait simplement d'une des branches (la division transport) d'un système beaucoup plus vaste de développement et de partage de revenus.
+Notre incapacité à réaliser cette vision est directement relié au taux trop bas de codératie dans la population.
 
 ### Redistribution directe des revenus
 
-Démocratie directe, redistribution directe.
+Si les délibérations autour du code source offre une merveilleuse opportunité de [démocratie directe]({{<ref software-freedom.md>}}),
+l'organisation du code simple et facilement recombinable permettra non seulement des [outils plus simples]({{<ref we-need-code.md>}})
+mais pourrait aussi la possiblité d'effectuer une redistribution directe des revenus.
 
+Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie.
 
+Il ne reste qu'à trouver un nom pour cette écononmie. L'économie répartie? L'économie directe?
