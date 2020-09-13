@@ -32,7 +32,7 @@ Notre incapacité à réaliser cette vision est directement relié au taux trop 
 
 ### Redistribution directe des revenus
 
-Si les délibérations autour du code source offre une merveilleuse opportunité de [démocratie directe]({{<ref software-freedom.md>}}),
+Si les délibérations autour du code source offre une merveilleuse opportunité de [démocratie directe]({{<ref fortify-democracy.md>}}),
 l'organisation du code simple et facilement combinable permettra non seulement des [outils plus simples]({{<ref we-need-code.md>}})
 mais pourrait aussi la possibilité d'effectuer une redistribution directe des revenus.
 
