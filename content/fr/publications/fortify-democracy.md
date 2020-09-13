@@ -1,10 +1,10 @@
 ---
-title: "L'informatique émancipatrice"
-date: 2020-08-19T12:50:58-04:00
-slug: "liberte-informatique"
+title: "Fortifier la démocratie"
+date: 2020-08-12T12:50:58-04:00
+slug: "fortifier-la-democratie"
 ---
 
-Redonner le pouvoir à l'usager
+Rendre le développement logiciel délibératif
 <!--more-->
 
 ### Liberté presque totale
