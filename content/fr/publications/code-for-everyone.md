@@ -45,7 +45,7 @@ C'est exactement l'attitude que nous nous devons d'avoir concernant la programma
 ### Mais avec quel objectif?
 
 Un taux critique d'individus habilités à comprendre le code source permettra l'émergence d'un [nouveau contre-pouvoir]({{<ref press-freedom-2.0.md>}}) 
-dont nous avons grandement besoin pour fortifier nos démocraties. 
+et à terme pourrait nous aider à [fortifier nos démocraties]({{<ref fortify-democracy.md>}}).
 
 En ce moment, le taux de codératie est si bas qu'à peu près tous les programmeurs sont affairés à créer des systèmes informatiques, ce qui en laisse très peu pour les 
 vulgariser, les critiquer et réfléchir aux enjeux qu'ils soulèvent. C'est comme si tous les juristes au monde étaient à l'emploi des gouvernements: il ne resterait personne pour lire les lois, les critiquer et le vulgariser.
