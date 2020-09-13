@@ -32,7 +32,7 @@ Il faut accéder au code source pour espérer critiquer les systèmes informatiq
 
 ### Un nouveau contre-pouvoir
 
-Il faut s'inspirer du mouvement du [logiciel libre]({{<ref software-freedom.md>}}) 
+Il faut s'inspirer du mouvement du [logiciel libre]({{<ref fortify-democracy.md>}}) 
 et exiger d'avoir accès au code source des systèmes informatiques que nous utilisons.
 
 Dans un avenir où le taux de codératie serait élevé, cet accès au code source sera extrêmement bénéfique pour la société, 
