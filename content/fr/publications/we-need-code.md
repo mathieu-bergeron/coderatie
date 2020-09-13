@@ -35,7 +35,7 @@ Comme pour les langages naturels, la puissance des langages de programmation
 vient de la possibilité de créer facilement de nouvelles phrases (ou nouveaux
 programmes) à partir de règles relativement simples.  C'est la possibilité de
 combiner plusieurs petits éléments afin de créer une plus grande phrase (un
-plus grand programme) que les systèmes plus simple n'arrivent pas à répliquer
+plus grand programme) que les systèmes plus simples n'arrivent pas à répliquer
 (en effet, au delà d'exemples minuscules, ces systèmes simples deviennent plus
 complexes que le code).
 
