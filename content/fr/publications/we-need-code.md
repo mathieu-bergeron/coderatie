@@ -77,7 +77,7 @@ Ce qui veut dire:
 * Satisfaction
 
 
-À noter que Bash est supérieur à n'importe quel gestionnaire de fichier graphique. Et ce même si Bash est super vieux et qu'on peut facilement imaginer un meilleur Bash avec une inferface graphique à la IDE.
+À noter que Bash est supérieur à n'importe quel gestionnaire de fichier graphique. Et ce même si Bash est super vieux et qu'on peut facilement imaginer un meilleur Bash avec une interface graphique à la IDE.
 
 Avec un interface graphique, l'ergonomie est difficile. Avec un langage, c'est excellent par défaut (et évidemment pourrait être encore mieux, mais ce n'est jamais terrible si le langage est bon).
 
