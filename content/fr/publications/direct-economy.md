@@ -1,10 +1,10 @@
 ---
-title: "Une autre nouvelle économie"
+title: "L'économie directe"
 date: 2020-08-22T03:22:41-04:00
-slug: "autre-nouvelle-economie"
+slug: "economie-directe"
 ---
 
-L'informatique s'insinue partout. Et si elle le faisait en soutenant plutôt qu'en perturbant?
+Et si l'informatique soutenait plutôt que perturber?
 <!--more-->
 
 ### La course aux monopoles
@@ -37,5 +37,3 @@ l'organisation du code simple et facilement combinable permettra non seulement d
 mais pourrait aussi la possibilité d'effectuer une redistribution directe des revenus.
 
 Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie.
-
-Il ne reste qu'à trouver un nom pour cette économie. L'économie répartie? L'économie directe?

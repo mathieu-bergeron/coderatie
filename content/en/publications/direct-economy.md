@@ -1,5 +1,5 @@
 ---
-title: "Another new economy"
+title: "Direct economy"
 date: 2020-08-22T03:22:41-04:00
 ---
 
