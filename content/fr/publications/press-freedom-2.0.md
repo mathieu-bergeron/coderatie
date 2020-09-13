@@ -10,7 +10,7 @@ Débattre publiquement du code source.
 
 ### La liberté de presse ne suffit plus
 
-La montée de la nouvelle IA et des [plateformes informatiques]({{<ref another-new-economy.md>}})
+La montée de la nouvelle IA et des [plateformes informatiques]({{<ref direct-economy.md>}})
 a créé des nouveaux centres de pouvoir (dans *Who Owns the Future?*, <a href="http://www.jaronlanier.com/" target="_blank">Jaron Lanier</a> les surnomme les serveurs sirènes).
 Il s'agit des Facebook et des Google de ce monde, bien sûr, mais aussi d'autres entreprises moins connues et de certaines agences gouvernementales.
 Ils  utilisent
