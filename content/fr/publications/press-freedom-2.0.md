@@ -4,7 +4,7 @@ date: 2020-08-25T03:22:41-04:00
 slug: "liberte-de-presse-2.0"
 ---
 
-Débattre publiquement du code source des systèmes informatiques.
+Débattre publiquement du code source.
 
 <!--more-->
 
@@ -13,6 +13,8 @@ Débattre publiquement du code source des systèmes informatiques.
 ### Le code fait loi
 
 ### Un nouveau contre-pouvoir
+
+Liberté informatique
 
 Il faut s'inspirer du logiciel libre ([même si ce dernier doit être amélioré]({{<ref whats-wrong-with-freedom>}})).
 

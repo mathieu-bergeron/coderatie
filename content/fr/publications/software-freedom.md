@@ -1,13 +1,11 @@
 ---
-title: "Le problème avec le logiciel libre"
+title: "L'informatique émancipatrice"
 date: 2020-08-19T12:50:58-04:00
-slug: "logiciel-libre"
+slug: "liberte-informatique"
 ---
 
-Viser une liberté totale pour l'utilisateur
-équivaut à abandonner le bien commun.
+Redonner le pouvoir à l'usager
 <!--more-->
-<<<<<<< HEAD
 
 ### Liberté presque totale
 
@@ -21,6 +19,3 @@ On veut beaucoup de liberté
 
 
 
-
-=======
->>>>>>> master

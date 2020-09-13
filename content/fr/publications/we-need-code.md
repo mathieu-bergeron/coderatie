@@ -5,10 +5,17 @@ slug: "on-veut-du-code"
 ---
 
 Avec le code, les possibilités d'expérimentation et de création explosent.
-La littératie numérique ne suffit pas.
 
 <!--more-->
-<<<<<<< HEAD
+
+### La littératie numérique ne suffit pas
+
+Le cliquodrome. 
+
+La littératie numérique, dans le meilleur des cas
+
+### La puissance des langages (et des notations)
+
 
 ### Les langages de programmation
 
@@ -51,5 +58,3 @@ Avec un interface graphique, l'ergonomie est difficile. Avec un langage, c'est e
 1. Consistency
 
 -->
-=======
->>>>>>> master
