@@ -33,13 +33,13 @@ Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blan
 * Les données doivent être lisibles
 
 Notre incapacité à réaliser cette vision et à offrir à la population [une
-informatique émancipatrice]({{<ref we-need-code.md>}}) est directement reliée à
+informatique émancipatrice]({{<ref we-need-code>}}) est directement reliée à
 notre incapacité à promouvoir la codératie.
 
 ### Redistribution directe des revenus
 
 Si les délibérations autour du code source offre une merveilleuse opportunité
-de [démocratie directe]({{<ref fortify-democracy.md>}}), l'organisation du code
+de [démocratie directe]({{<ref fortify-democracy>}}), l'organisation du code
 en unités simples et facilement combinables permettra aussi
 d'effectuer une redistribution directe des revenus.
 
