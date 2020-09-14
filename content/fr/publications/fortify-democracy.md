@@ -14,7 +14,7 @@ Le logiciel libre stipule qu'il faut un accès illimité au code source (y compr
 
 ### Équilibrer liberté et bien commun
 
-Pour rendre cette liberté totale compatible avec le bien commun, il faudra trouver un point d'équilibre, en particulier [économique]({{<ref direct-economy.md>}}).
+Pour rendre cette liberté totale compatible avec le bien commun, il faudra trouver un point d'équilibre, en particulier [économique]({{<ref direct-economy>}}).
 
 ### Le développement délibératif
 

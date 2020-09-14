@@ -19,7 +19,7 @@ Les systèmes de la nouvelle IA n'ont pas la capacité d'expliquer leurs décisi
 
 Pour préserver notre propre compréhension du monde, nous devrons trouver comment
 extraire les parcelles de compréhension qui se cachent désormais dans les machines
-et les retranscrire dans les [langages et des notations]({{<ref we-need-code.md>}}) intelligibles pour les humains.
+et les retranscrire dans les [langages et des notations]({{<ref we-need-code>}}) intelligibles pour les humains.
 
 ### Continuer à apprendre et enseigner
 

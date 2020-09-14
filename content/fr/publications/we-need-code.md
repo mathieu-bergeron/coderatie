@@ -50,7 +50,7 @@ Donc, pour les programmeurs, remplacer les langages de programmation par autre c
 Pourquoi est-ce que ça devrait être différent pour le citoyen? Pourquoi le citoyen devrait se contenter d'une méthode vastement inférieure d'interaction avec les ordinateurs?
 
 Ça ne veut pas dire que tout le monde devrait contrôler son ordinateur avec un langage de programmation généraliste, mais on peut imaginer un juste milieu
-qui donne accès à la puissance des langages tout en étant facile à [apprendre et à enseigner]({{<ref code-for-everyone.md>}}).
+qui donne accès à la puissance des langages tout en étant facile à [apprendre et à enseigner]({{<ref code-for-everyone>}}).
 
 
 <!--
