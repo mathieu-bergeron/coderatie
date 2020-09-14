@@ -16,7 +16,7 @@ technologies propriétaires devenant indispensables à la conduite d'une activit
 humaine (p.ex. Google pour la recherche d'information ou Facebook pour la
 socialisation).  Les logiciels commerciaux sont volontairement <a
 href="https://ici.radio-canada.ca/nouvelle/1101238/montreal-logiciel-materiel-libre-francois-croteau"
-target="_blank">menottant</a>: une fois qu'on a commencé à les utiliser, on
+target="_blank">menottant 🔗</a>: une fois qu'on a commencé à les utiliser, on
 devient prisonnier (passer à un autre logiciel ou développer une autre façon de
 travailler est souvent tellement coûteux en temps que ça devient irréaliste).
 
@@ -26,15 +26,15 @@ La réelle réponse aux plateformes n'est pas dans la concurrence d'autres plate
 
 La réelle réponse ne sera accessible à l'humanité qu'une fois un taux critique de codératie atteint: briser les plateformes en mille morceaux et
 laisser chacun créer ses propres outils informatiques en recombinant ces morceaux. C'est souvent ce que les programmeurs font. 
-Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blank">vision</a> a d'ailleurs été énoncée clairement très tôt dans la courte vie de l'informatique.
+Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blank">vision 🔗</a> a d'ailleurs été énoncée clairement très tôt dans la courte vie de l'informatique:
 
-* Un outil doit faire une seule chose et le faire bien
+* Un outil doit faire une seule chose et la faire bien
 * Les outils doivent collaborer facilement entre eux
 * Les données doivent être lisibles
 
 Notre incapacité à réaliser cette vision et à offrir à la population [une
 informatique émancipatrice]({{<ref we-need-code.md>}}) est directement reliée à
-notre incapacité à installer un degré acceptable de codératie.
+notre incapacité à promouvoir la codératie.
 
 ### Redistribution directe des revenus
 
