@@ -79,7 +79,7 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
     * certains outils sont lents et capricieux
 
 À noter que les obstacles ci-haut concernent surtout les langages de
-programmation généralistes, alors que ces derniers s'adressent à des
+programmation généralistes s'adressant à des
 programmeurs professionnels. Il existe déjà des langages conçus pour les
 débutants qui réduisent significativement ces difficultés.
 
