@@ -26,11 +26,17 @@ et les retranscrire dans les [langages et des notations]({{<ref we-need-code.md>
 Il est essentiel que les humains continuent à apprendre et enseigner.
 On doit exiger que l'IA participe à cette valse des idées, plutôt qu'enfermer le sens dans des systèmes opaques.
 
-Prenons simplement l'exemple des algorithmes capablent de <a href="https://www.radiologybusiness.com/topics/artificial-intelligence/hello-ai-goodbye-radiology-we-know-it" target="_blank">diagnostiquer différentes pathologie à partir d'imageries médicales 🔗</a>.
+Prenons l'exemple des algorithmes capablent de <a href="https://www.radiologybusiness.com/topics/artificial-intelligence/hello-ai-goodbye-radiology-we-know-it" target="_blank">diagnostiquer différentes pathologie à partir d'imageries médicales 🔗</a>.
 Même si ces algorithmes sont plus performants que les radiologistes humains, nous devons continuer à 
 apprendre et enseigner la radiologie. 
 Il faut préserver une certaine expertise humaine si on veut accompagner les patients qui reçoivent ces diagnostiques et 
 afin de s'assurer que préservons un esprit critique face à ces nouvelles technologies.
+
+### Préserver la pensée critique
+
+La compréhension artificielle des médias sociaux est probablement trop superficielle pour détecter les fameuses fausses nouvelles.
+
+Il faut que ces systèmes partagent cette compréhension artificielles si on veut la critique et suggérer des améliorations.
 
 
 

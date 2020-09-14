@@ -9,12 +9,16 @@ Et si l'informatique soutenait plutôt que perturber?
 
 ### La course aux monopoles
 
-La nouvelle économie, basée sur systèmes informatiques, a profondément desservi l'humanité.
-Elle est tout sauf une fondation solide pour un avenir prospère et paisible.
-Au contraire, elle s'articule autour de plateformes, ou monopoles.
-Les logiciels commerciaux sont volontairement <a href="https://ici.radio-canada.ca/nouvelle/1101238/montreal-logiciel-materiel-libre-francois-croteau" target="_blank">menottant</a>:
-une fois qu'on a commencé à les utiliser, on devient prisonnier:
-passer à un autre logiciel ou développer une autre façon de travailler est souvent tellement coûteux en temps que ça devient irréaliste.
+La nouvelle économie, basée sur systèmes informatiques, a profondément desservi
+l'humanité.  Elle est tout sauf une fondation solide pour un avenir prospère et
+paisible.  Au contraire, elle s'articule autour de plateformes, des
+technologies propriétaires devenant indispensables à la conduite d'une activité
+humaine (p.ex. Google pour la recherche d'information ou Facebook pour la
+socialisation).  Les logiciels commerciaux sont volontairement <a
+href="https://ici.radio-canada.ca/nouvelle/1101238/montreal-logiciel-materiel-libre-francois-croteau"
+target="_blank">menottant</a>: une fois qu'on a commencé à les utiliser, on
+devient prisonnier (passer à un autre logiciel ou développer une autre façon de
+travailler est souvent tellement coûteux en temps que ça devient irréaliste).
 
 ### Briser les plateformes en mille morceaux
 
@@ -28,12 +32,20 @@ Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blan
 * Les outils doivent collaborer facilement entre eux
 * Les données doivent être lisibles
 
-Notre incapacité à réaliser cette vision est directement relié au taux trop bas de codératie dans la population.
+Notre incapacité à réaliser cette vision et à offrir à la population [une
+informatique émancipatrice]({{<ref we-need-code.md>}}) est directement reliée à
+notre incapacité à installer un degré acceptable de codératie.
 
 ### Redistribution directe des revenus
 
-Si les délibérations autour du code source offre une merveilleuse opportunité de [démocratie directe]({{<ref fortify-democracy.md>}}),
-l'organisation du code simple et facilement combinable permettra non seulement des [outils plus simples]({{<ref we-need-code.md>}})
-mais pourrait aussi la possibilité d'effectuer une redistribution directe des revenus.
+Si les délibérations autour du code source offre une merveilleuse opportunité
+de [démocratie directe]({{<ref fortify-democracy.md>}}), l'organisation du code
+en unités simples et facilement combinables permettra aussi
+d'effectuer une redistribution directe des revenus.
+
+Nous pourrons préserver un maximum de liberté pour les usagers, tout en
+s'assurant que l'exécution du code s'accompagne d'informations visant à
+rémunérer les créateurs du code et à effectuer une redistribution
+des revenus.
 
 Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie.

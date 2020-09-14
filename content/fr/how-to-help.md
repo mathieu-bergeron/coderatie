@@ -5,7 +5,7 @@ draft: false
 slug: "comment-aider"
 ---
 
-## Comme être humain
+### Comme être humain
 
 * D'abord, prendre une grande respiration. La technologie est un sujet
   extrêmement polarisant. Si on veut progresser sur la question, il faudra en
@@ -15,7 +15,7 @@ slug: "comment-aider"
 
 * [Nous contacter](/apropos)
 
-## Comme citoyen, politicienne ou juriste
+<h3 id="lois"> Comme citoyen, politicienne ou juriste </h3>
 
 * À notre avis, voici ce qu'il faut obtenir de l'État:
 
@@ -31,7 +31,7 @@ slug: "comment-aider"
 
 * Quelqu'un a un idée de comment s'y prendre?
 
-## Comme chercheuse ou développeur
+### Comme chercheuse ou développeur
 
 * À notre avis, nous avons besoin de plus de projets de ce genre:
 
