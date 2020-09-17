@@ -38,7 +38,7 @@ Il faut garder la capacité de détecter ces erreurs et de réagir en conséquen
 
 La compréhension artificielle des médias sociaux est probablement trop superficielle pour détecter les fameuses fausses nouvelles.
 
-Il faut que ces systèmes partagent cette compréhension artificielles si on veut trouver comment l'améliorer.
+Il faut que ces systèmes partagent cette compréhension artificielle si on veut trouver comment l'améliorer.
 
 
 
