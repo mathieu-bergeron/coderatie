@@ -32,7 +32,7 @@ apprendre et enseigner la radiologie.
 Il faut préserver une certaine expertise humaine si on veut accompagner les patients qui reçoivent ces diagnostiques.
 Aussi, cet exepertise est nécessaire pour critiquer ces nouvelles technologies. 
 Ce n'est pas vrai que les machines ne font pas d'erreurs.
-Il faut garder la capacité de détecter ces erreurs et de réagir en conséquence.
+Il faut garder la capacité de détecter ces erreurs et ainsi réagir en conséquence.
 
 ### Préserver la pensée critique
 
