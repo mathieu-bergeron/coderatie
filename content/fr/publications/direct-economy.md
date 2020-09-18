@@ -38,7 +38,7 @@ notre incapacité à promouvoir la codératie.
 
 ### Redistribution directe des revenus
 
-Si les délibérations autour du code source offre une merveilleuse opportunité
+Si les délibérations autour du code source offrent une merveilleuse opportunité
 de [démocratie directe]({{<ref rebuild-democracy>}}), l'organisation du code
 en unités simples et facilement combinables permettra aussi
 d'effectuer une redistribution directe des revenus.
