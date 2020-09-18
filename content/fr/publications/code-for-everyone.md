@@ -45,7 +45,7 @@ C'est exactement l'attitude que nous nous devons d'avoir concernant la programma
 ### Mais avec quel objectif?
 
 Une masse critique d'individus aptes à comprendre le code source permettra l'émergence d'un [nouveau contre-pouvoir]({{<ref "press-freedom-2.0.md">}}) 
-et pourrait même, à terme, jeter les base d'une [nouvelle démocracie]({{<ref rebuild-democracy>}}).
+et pourrait même, à terme, jeter les bases d'une [nouvelle démocracie]({{<ref rebuild-democracy>}}).
 
 En ce moment, le taux de codératie est si bas qu'à peu près tous les
 programmeurs sont affairés à créer des systèmes informatiques, ce qui en laisse
