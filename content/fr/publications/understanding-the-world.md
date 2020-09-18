@@ -18,7 +18,7 @@ Malheureusement, ces compréhensions artificielles sont opaques.
 Les systèmes de la nouvelle IA n'ont pas la capacité d'expliquer leurs décisions.
 
 Pour préserver notre propre compréhension du monde, nous devrons trouver comment
-extraire les parcelles de compréhension qui se cachent désormais dans les machines
+extraire les parcelles de compréhension qui se cachent désormais dans ces systèmes
 et les retranscrire dans les [langages et des notations]({{<ref we-need-code>}}) intelligibles pour les humains.
 
 ### Continuer à apprendre et enseigner
@@ -29,15 +29,16 @@ On doit exiger que l'IA participe à cette valse des idées, plutôt qu'enfermer
 Prenons l'exemple des algorithmes capablent de <a href="https://www.radiologybusiness.com/topics/artificial-intelligence/hello-ai-goodbye-radiology-we-know-it" target="_blank">diagnostiquer différentes pathologie à partir d'imageries médicales 🔗</a>.
 Même si ces algorithmes sont plus performants que les radiologistes humains, nous devons continuer à 
 apprendre et enseigner la radiologie. 
-Il faut préserver une certaine expertise humaine si on veut accompagner les patients qui reçoivent ces diagnostiques et 
-afin de s'assurer que préservons un esprit critique face à ces nouvelles technologies.
+Il faut préserver une certaine expertise humaine si on veut accompagner les patients qui reçoivent ces diagnostiques.
+Aussi, cet exepertise est nécessaire pour critiquer ces nouvelles technologies. 
+Ce n'est pas vrai que les machines ne font pas d'erreurs.
+Il faut garder la capacité de détecter ces erreurs et ainsi réagir en conséquence.
 
 ### Préserver la pensée critique
 
 La compréhension artificielle des médias sociaux est probablement trop superficielle pour détecter les fameuses fausses nouvelles.
 
-Il faut que ces systèmes partagent cette compréhension artificielles si on veut la critique et suggérer des améliorations.
-
+Il faut que ces systèmes partagent cette compréhension artificielle si on veut trouver comment l'améliorer.
 
 
 
