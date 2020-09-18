@@ -9,7 +9,7 @@ En impliquant le citoyen dans le développement des systèmes informatiques.
 
 ### Quand les algorithmes décident
 
-À l'ère où les machines décident de tant de chose, il faut que nous arrivions à décider collectivement du comportement des machines.
+À l'ère où les machines décident de tant de choses, il faut que nous arrivions à décider collectivement du comportement des machines.
 
 ### Le logiciel libre
 
