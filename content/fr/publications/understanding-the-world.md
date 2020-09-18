@@ -1,10 +1,10 @@
 ---
 title: "Continuer à comprendre le monde"
-date: 2020-08-18T12:47:16-04:00
+date: 2020-08-20T12:47:16-04:00
 slug: "comprendre-le-monde"
 ---
 
-Quitte à apprendre de la machine.
+Faire de l'IA un outil pédagogique.
 <!--more-->
 
 ### La compréhension artificielle

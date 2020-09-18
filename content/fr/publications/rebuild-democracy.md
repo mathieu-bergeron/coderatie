@@ -1,11 +1,15 @@
 ---
-title: "Fortifier la démocratie"
+title: "Rebâtir la démocracie"
 date: 2020-08-12T12:50:58-04:00
 slug: "fortifier-la-democratie"
 ---
 
-En rendant le développement logiciel délibératif
+En impliquant le citoyen dans le développement des systèmes informatiques.
 <!--more-->
+
+### Quand les algorithmes décident
+
+À l'ère où les machines décident de tant de chose, il faut que nous arrivions à décider collectivement du comportement des machines.
 
 ### Le logiciel libre
 

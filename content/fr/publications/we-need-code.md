@@ -1,6 +1,6 @@
 ---
 title: "Code >> Application"
-date: 2020-08-20T05:50:08-04:00
+date: 2020-08-09T05:50:08-04:00
 slug: "on-veut-du-code"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "L'économie directe"
-date: 2020-08-22T03:22:41-04:00
+date: 2020-08-20T03:22:41-04:00
 slug: "economie-directe"
 ---
 
@@ -39,7 +39,7 @@ notre incapacité à promouvoir la codératie.
 ### Redistribution directe des revenus
 
 Si les délibérations autour du code source offre une merveilleuse opportunité
-de [démocratie directe]({{<ref fortify-democracy>}}), l'organisation du code
+de [démocratie directe]({{<ref rebuild-democracy>}}), l'organisation du code
 en unités simples et facilement combinables permettra aussi
 d'effectuer une redistribution directe des revenus.
 
