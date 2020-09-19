@@ -31,15 +31,20 @@ slug: "comment-aider"
 
 * Quelqu'un a un idée de comment s'y prendre?
 
-### Comme chercheuse ou développeur
+<h3 id="recherche">Comme chercheuse ou développeur</h3>
 
 * À notre avis, nous avons besoin de plus de projets de ce genre:
 
-    1. <a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence" target="_blank">IA explicable 🔗</a>
+    1. <a
+    href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"
+    target="_blank">IA explicable 🔗</a>
         * Rendre l'apprentissage machine plus intelligible. En particulier,
-          trouver des techniques capables de fournir une explication vulgarisée
-          pour chaque décision du système (et non seulement des tendances
-          globales).
+          trouver des techniques capables de générer, dans un langage formel
+          dédié à cet effet, des explications pour chaque décision du système.
+          Se servir de <a
+          href="https://fr.wikipedia.org/wiki/Langue_contr%C3%B4l%C3%A9e"
+          target="_blank">langues contrôlées 🔗</a>  pour rendre ces
+          explications accessibles au grand public.
     1. Techniques et langages de programmation qui supportent:
         * L'enseignement
         * L'extraction et l'explication des portions clés d'un programme (les
@@ -51,7 +56,8 @@ slug: "comment-aider"
           leurs contributions (il faudra penser à l'équité et à la sécurité
           d'un tel système, tout en préservant un maximum de liberté pour
           l'usager. La seule liberté que l'usager devrait concéder est celle
-          d'exécuter le code sans contribuer financièrement à son développement).
+          d'exécuter le code sans contribuer financièrement à son
+          développement).
     1. Recherche sur la codératie comme telle:
         * Quel est le taux de codératie en ce moment?
         * Quelle est la psychologie de l'apprentissage de la programmation?
