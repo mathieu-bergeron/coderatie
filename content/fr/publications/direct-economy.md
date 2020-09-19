@@ -66,7 +66,11 @@ erreur de penser que ce qu'ils ont à offrir n'aurait plus de valeur.
 
 ### Les experts contribuent au code
 
+<<<<<<< HEAD
 Comme nous l'envisageons ici, les radiologistes ganeraient une nouvelle opportunité
+=======
+Comme nous l'envisageons ici, les radiologistes gagneraient aussi une nouvelle opportunité
+>>>>>>> master
 de revenus: l'amélioration des algorithmes.  Grace à leur codératie, ces
 derniers pourraient manipuler eux-mêmes différents algorithmes, les comparer,
 étudier leur fonctionnement et, finalement, proposer des améliorations.
