@@ -1,6 +1,6 @@
 ---
-title: "Code >> Application"
-date: 2020-08-09T05:50:08-04:00
+title: "L'informatique émancipatrice"
+date: 2020-08-08T05:50:08-04:00
 slug: "on-veut-du-code"
 ---
 

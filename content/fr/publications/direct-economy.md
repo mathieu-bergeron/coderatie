@@ -49,3 +49,37 @@ rémunérer les créateurs du code et à effectuer une redistribution
 des revenus.
 
 Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie.
+
+### Les interprètes humain-machine
+
+Même si les machines deviennent plus efficaces que les humains à une tâche
+particuilère, il ne faut pas penser que l'expertise humaine perd toute sa
+valeur.  Reprennons l'exemple des
+[radiologistes](/publications/comprendre-le-monde#radiologie) et des
+algorithmes capables de diagnostiquer le cancer. Comme nous l'avons vu, 
+les radiologistes seront encore en demande pour accompagner les patients qui
+recoivent ces diagnotics et pour mettre en doute les diagnostics les plus
+louches (la machine n'est pas infaillible).
+
+Il se peut que les salaires des radiologistes baissent, mais ce serait une
+erreur de penser que ce qu'ils ont à offrir n'aurait plus de valeur.
+
+### Les experts contribuent au code
+
+Comme nous l'envisageons ici, les radiologistes ganeraient une nouvelle opportunité
+de revenus: l'amélioration des algorithmes.  Grace à leur codératie, ces
+derniers pourraient manipuler eux-mêmes différents algorithmes, les comparer,
+étudier leur fonctionnement et, finalement, proposer des améliorations.
+
+Ces améliorations seraient rémunérées directement lors de l'utilisation
+des algorithmes améliorés.
+
+
+
+
+
+
+
+
+
+
