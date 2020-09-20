@@ -17,7 +17,6 @@ Enseigner la programmation à tous les niveaux.
 <li><a href="#mais-avec-quel-objectif">Mais avec quel objectif?</a></li>
 <li><a href="#les-principaux-bloquants-à-surmonter">Les principaux bloquants à surmonter</a></li>
 <li><a href="#lexemple-de-scratch">L’exemple de Scratch</a></li>
-<li><code>{<a href="#articles-connexes">articles connexes</a>}</code></li>
 </ul>
 </li>
 </ul>
@@ -143,5 +142,16 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
 
 
 <!-- TODO: generate  -->
+<div style="background-color:lightgray;">
 <h3 id='articles-connexes'><code>{articles connexes}</code></h3>
+
+<ul>
+<li>asdf</li>
+<li>asdf</li>
+<li>asdf</li>
+<li>asdf</li>
+</ul>
+
+
+</div>
 
