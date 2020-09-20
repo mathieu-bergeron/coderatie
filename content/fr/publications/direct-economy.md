@@ -39,7 +39,7 @@ la courte vie de l'informatique:
 * Les données doivent être lisibles
 
 Notre incapacité à réaliser cette vision et à offrir à la population [une
-informatique émancipatrice]({{<ref empowering-software>}}) est directement reliée à:
+informatique émancipatrice]({{<ref empowerment>}}) est directement reliée à:
 1.  Notre incapacité à promouvoir la codératie
 1.  La soif de profits d'une
 industrie de l'informatique 

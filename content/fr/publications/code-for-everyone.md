@@ -61,7 +61,7 @@ Autrement dit: les systèmes informatiques sont devenus des lois de facto dans n
 Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de frustration, et ce,
 malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
 Il est tout à fait compréhensible que l'idée d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
-En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref empowering-software>}}),
+En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref empowerment>}}),
 alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la liberté des usagers.
 
 Néanmoins, il existe des obstacles bien réels à l'apprentissage de la programmation.
