@@ -5,6 +5,10 @@ theme = "chunky_dates_fr"
       [markup.goldmark.renderer]
             unsafe = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [languages]
     [languages.en]
         title = "Coderacy"
