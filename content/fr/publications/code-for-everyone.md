@@ -7,6 +7,25 @@ slug: "le-code-pour-tous"
 Enseigner la programmation à tous les niveaux.
 <!--more-->
 
+<!-- TODO: generate -->
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#linformatique-est-multidisciplinaire">L’informatique est multidisciplinaire</a></li>
+<li><a href="#un-enseignement-intégré-et-porteur">Un enseignement intégré et porteur</a></li>
+<li><a href="#mais-avec-quel-objectif">Mais avec quel objectif?</a></li>
+<li><a href="#les-principaux-bloquants-à-surmonter">Les principaux bloquants à surmonter</a></li>
+<li><a href="#lexemple-de-scratch">L’exemple de Scratch</a></li>
+<li><code>{<a href="#articles-connexes">articles connexes</a>}</code></li>
+</ul>
+</li>
+</ul>
+</nav>
+
+
+
+
 
 ### L'informatique est multidisciplinaire
 
@@ -122,4 +141,7 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
 1. Il s'agit d'une application Web 
     * il n'y a rien à installer ou configurer
 
+
+<!-- TODO: generate  -->
+<h3 id='articles-connexes'><code>{articles connexes}</code></h3>
 
