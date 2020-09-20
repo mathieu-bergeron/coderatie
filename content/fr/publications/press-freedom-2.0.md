@@ -49,7 +49,7 @@ Dans un avenir où le taux de codératie serait élevé, cet accès au code sour
 alors que des programmeurs-journalistes pourront en débattre publiquement et expliquer rapidement les enjeux à la population générale.
 
 En plus, nous gagnerions la possibilité d'influencer directement la teneur des systèmes informatiques, créant ainsi une [nouvelle forme de
-démocratie directe]({{<ref rebuild-democracy>}}) pouvant opérer à grande échelle.
+démocratie directe]({{<ref reinventing-democracy>}}) pouvant opérer à grande échelle.
 
 
 Si le code fait loi, alors on ne peut tolérer qu'il soit écrit derrière des portes closes.
