@@ -1,7 +1,7 @@
 ---
-title: "Rebuild democracy"
+title: "Reinventing Democracy"
 date: 2020-08-10T12:50:58-04:00
 ---
 
-Involve citizens in software development.
+By involving citizens in software development.
 <!--more-->

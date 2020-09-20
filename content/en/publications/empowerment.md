@@ -1,8 +1,7 @@
 ---
-title: "Code >> Software"
-date: 2020-08-20T05:50:08-04:00
+title: "Software should be Empowering"
+date: 2020-08-21T05:50:08-04:00
 ---
 
 With code, possibilities for experimentation and creation explode.
-Computer literacy is not enough.
 <!--more-->

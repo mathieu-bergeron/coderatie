@@ -4,5 +4,5 @@ date: 2020-08-25T03:22:41-04:00
 ---
 
 
-How software freedom has to become the next press freedom.
+We need to debate source code publicly.
 <!--more-->
