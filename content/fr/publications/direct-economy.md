@@ -1,6 +1,6 @@
 ---
 title: "L'économie directe"
-date: 2020-08-20T03:22:41-04:00
+date: 2020-08-04T03:22:41-04:00
 slug: "economie-directe"
 ---
 
@@ -22,24 +22,34 @@ travailler est souvent tellement coûteux en temps que ça devient irréaliste).
 
 ### Briser les plateformes en mille morceaux
 
-La réelle réponse aux plateformes n'est pas dans la concurrence d'autres plateformes (même si une plateforme libre serait préférable à une plateforme privatrice).
+La réelle réponse aux plateformes n'est pas dans la concurrence d'autres
+plateformes (même si une plateforme libre serait préférable à une plateforme
+privatrice).
 
-La réelle réponse ne sera accessible à l'humanité qu'une fois un taux critique de codératie atteint: briser les plateformes en mille morceaux et
-laisser chacun créer ses propres outils informatiques en recombinant ces morceaux. C'est souvent ce que les programmeurs font. 
-Cette <a href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix" target="_blank">vision 🔗</a> a d'ailleurs été énoncée clairement très tôt dans la courte vie de l'informatique:
+La réelle réponse ne sera accessible à l'humanité qu'une fois un taux critique
+de codératie atteint: briser les plateformes en mille morceaux et laisser
+chacun créer ses propres outils informatiques en recombinant ces morceaux.
+C'est souvent ce que les programmeurs font.  Cette <a
+href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix"
+target="_blank">vision 🔗</a> a d'ailleurs été énoncée clairement très tôt dans
+la courte vie de l'informatique:
 
 * Un outil doit faire une seule chose et la faire bien
 * Les outils doivent collaborer facilement entre eux
 * Les données doivent être lisibles
 
 Notre incapacité à réaliser cette vision et à offrir à la population [une
-informatique émancipatrice]({{<ref we-need-code>}}) est directement reliée à
-notre incapacité à promouvoir la codératie.
+informatique émancipatrice]({{<ref empowering-software>}}) est directement reliée à:
+1.  Notre incapacité à promouvoir la codératie
+1.  La soif de profits d'une
+industrie de l'informatique 
+qui ne tente que très rarement d'offrir des outils
+qui respectent et encouragent la liberté des utilisateurs.
 
 ### Redistribution directe des revenus
 
 Si les délibérations autour du code source offrent une merveilleuse opportunité
-de [démocratie directe]({{<ref rebuild-democracy>}}), l'organisation du code
+de [démocratie directe]({{<ref reinventing-democracy>}}), l'organisation du code
 en unités simples et facilement combinables permettra aussi
 d'effectuer une redistribution directe des revenus.
 

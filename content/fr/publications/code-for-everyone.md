@@ -45,7 +45,7 @@ C'est exactement l'attitude que nous nous devons d'avoir concernant la programma
 ### Mais avec quel objectif?
 
 Une masse critique d'individus aptes à comprendre le code source permettra l'émergence d'un [nouveau contre-pouvoir]({{<ref "press-freedom-2.0.md">}}) 
-et pourrait même, à terme, jeter les bases d'une [nouvelle démocracie]({{<ref rebuild-democracy>}}).
+et pourrait même, à terme, jeter les bases d'une [nouvelle démocracie]({{<ref reinventing-democracy>}}).
 
 En ce moment, le taux de codératie est si bas qu'à peu près tous les
 programmeurs sont affairés à créer des systèmes informatiques, ce qui en laisse
@@ -61,7 +61,7 @@ Autrement dit: les systèmes informatiques sont devenus des lois de facto dans n
 Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de frustration, et ce,
 malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
 Il est tout à fait compréhensible que l'idée d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
-En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref we-need-code>}}),
+En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref empowering-software>}}),
 alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la liberté des usagers.
 
 Néanmoins, il existe des obstacles bien réels à l'apprentissage de la programmation.

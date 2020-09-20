@@ -21,7 +21,7 @@ Les systèmes de la nouvelle IA n'ont pas la capacité d'expliquer leurs décisi
 Pour préserver notre propre compréhension du monde, nous devrons trouver
 comment extraire le sens qui se cachent dans
 ces systèmes et le retranscrire dans les [langages et des notations]({{<ref
-we-need-code>}}) intelligibles pour les humains.
+empowering-software>}}) intelligibles pour les humains.
 
 ### Le code comme interface humain-machine
 
