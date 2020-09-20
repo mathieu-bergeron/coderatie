@@ -10,7 +10,7 @@ En impliquant le citoyen dans le développement des systèmes informatiques.
 ### Quand les algorithmes décident
 
 Les systèmes informatiques ne sont pas des outils inertes.  
-Ils sont des interlocuteurs capablent [d'interpréter l'information]({{<ref "understanding-the-world">}}),
+Ils sont des interlocuteurs capables [d'interpréter l'information]({{<ref "understanding-the-world">}}),
 de s'en servir pour prendre des décisions et de la modifier.
 
 Nos applications ne font pas que permettre les communications
