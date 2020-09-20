@@ -38,7 +38,7 @@ des futurs systèmes informatiques), et ce, directement dans le code source.
 
 L'idée de bien commun serait définie et redéfinie collectivement à travers les délibérations entourant le code source.
 
-### Le logiciel libre
+### L'exemple du logiciel libre
 
 Ce qui s'approche le plus du style de démocratie directe que nous imaginons ici est le logiciel libre.
 
