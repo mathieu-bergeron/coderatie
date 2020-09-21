@@ -54,42 +54,57 @@
                 {{ end }}
 
 
-                &nbsp;&nbsp;   | &nbsp;&nbsp;  
             {{ if .IsTranslated }}
                 {{ range .Translations }}
-	                <a href="{{ .Permalink }}">{{ .Lang }}</a>
+                    &nbsp;&nbsp;   | &nbsp;&nbsp;  
+	                <a href="{{ .Permalink }}">
+                        {{ if eq .Lang "en" }}
+
+                            English
+
+                        {{ else if eq .Lang "fr"}}
+
+                            Français
+
+                        {{ end }}
+	                        
+	                
+	                </a>
                 {{ end}}
             {{ end }}
             <br/>
             <br/>
             <br/>
-            <br/>
-
-
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-                	<img alt="Creative Commons License" style="border-width:0" src="/images/cc_88x31.png"/>
-                </a>
-                <br/>
-
-                    {{ if eq .LanguagePrefix "/en" }}
-                    
-                		This work is licensed under a 
-
-                    {{ else }}
-
-						Le contenu de ce site est sous licence
-
-
-                    {{ end }}
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International 
-                    {{ if eq .LanguagePrefix "/en" }}
-                    
-						License
-
-                    {{ else }}
-
-                    {{ end }}</a>
                 </p>
+
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                    {{ if eq .LanguagePrefix "/en" }}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/" class="icons d-block">
+                    {{ else if eq .LanguagePrefix "/fr"}}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" class="icons d-block">
+                    {{ end }}
+                	    <img alt="Creative Commons License" style="border-width:0" src="/images/cc.svg" width="48px"/></a></li>
+                    <li class="list-inline-item">
+                    {{ if eq .LanguagePrefix "/en" }}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/" class="icons d-block">
+                    {{ else if eq .LanguagePrefix "/fr"}}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" class="icons d-block">
+                    {{ end }}
+                	    <img alt="Creative Commons Attribution" style="border-width:0" src="/images/by.svg" width="48px"/></a></li>
+                    <li class="list-inline-item">
+                    {{ if eq .LanguagePrefix "/en" }}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/" class="icons d-block">
+                    {{ else if eq .LanguagePrefix "/fr"}}
+                        <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" class="icons d-block">
+                    {{ end }}
+                	    <img alt="Creative Commons ShareAlike" style="border-width:0" src="/images/sa.svg" width="48px"/></a></li>
+                </ul>
+                    {{ if eq .LanguagePrefix "/en" }}
+                    <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><!--Creative Commons<br>-->Attribution-ShareAlike</a><!-- 4.0 International</a>-->
+                    {{ else if eq .LanguagePrefix "/fr"}}
+                    <a ref="" href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"><!--Creative Commons<br>-->Attribution - Partage dans les Mêmes Conditions</a><!--<br>4.0 International</a>-->
+                    {{ end }}
 
 				<!--
                 <p class="text-muted">

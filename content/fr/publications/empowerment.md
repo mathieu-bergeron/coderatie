@@ -1,7 +1,8 @@
 ---
 title: "L'informatique émancipatrice"
 date: 2020-08-08T05:50:08-04:00
-slug: "on-veut-du-code"
+slug: "informatique-emancipatrice"
+categories: "L'informatique émancipatrice"
 ---
 
 Avec le code, les possibilités d'expérimentation et de création explosent.
