@@ -7,10 +7,15 @@ slug: "le-code-pour-tous"
 Enseigner la programmation à tous les niveaux.
 <!--more-->
 
-<!-- TODO: generate -->
+<!-- TODO: generate: breadcrumps + TOC -->
+{{partial "breadcrumbs.html" .}}
 <nav id="TableOfContents">
 <ul>
-<li>
+<li><a href="/categories">Tout le contenu</a> >
+<ul>
+<li><a href="/publications">Les grandes lignes</a> >
+<ul>
+<li><a href="">Le code pour tous</a> >
 <ul>
 <li><a href="#linformatique-est-multidisciplinaire">L’informatique est multidisciplinaire</a></li>
 <li><a href="#un-enseignement-intégré-et-porteur">Un enseignement intégré et porteur</a></li>
@@ -21,7 +26,6 @@ Enseigner la programmation à tous les niveaux.
 </li>
 </ul>
 </nav>
-
 
 
 
