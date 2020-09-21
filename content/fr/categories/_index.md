@@ -7,6 +7,7 @@ title: "Tout le contenu"
 <li><a href="#linformatique-est-multidisciplinaire">Par catégorie</a></li>
 <li><a href="#un-enseignement-intégré-et-porteur">Par mots clés</a></li>
 <li><a href="#mais-avec-quel-objectif">Par date</a></li>
+<li><a href="#mais-avec-quel-objectif">Chercher sur ce site</a></li>
 </ul>
 </li>
 </ul>
@@ -17,4 +18,6 @@ title: "Tout le contenu"
 ## Par mots clés
 
 ## Par date
+
+## Chercher sur le site
 
