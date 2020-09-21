@@ -7,25 +7,6 @@ slug: "le-code-pour-tous"
 Enseigner la programmation à tous les niveaux.
 <!--more-->
 
-<!-- TODO: generate -->
-<nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#linformatique-est-multidisciplinaire">L’informatique est multidisciplinaire</a></li>
-<li><a href="#un-enseignement-intégré-et-porteur">Un enseignement intégré et porteur</a></li>
-<li><a href="#mais-avec-quel-objectif">Mais avec quel objectif?</a></li>
-<li><a href="#les-principaux-bloquants-à-surmonter">Les principaux bloquants à surmonter</a></li>
-<li><a href="#lexemple-de-scratch">L’exemple de Scratch</a></li>
-</ul>
-</li>
-</ul>
-</nav>
-
-
-
-
-
 ### L'informatique est multidisciplinaire
 
 D'abord, notons que l'informatique moderne est profondément multidisciplinaire. 
@@ -139,19 +120,4 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
     * on crée ainsi des petits jeux vidéo
 1. Il s'agit d'une application Web 
     * il n'y a rien à installer ou configurer
-
-
-<!-- TODO: generate  -->
-<div style="background-color:lightgray;">
-<h3 id='articles-connexes'><code>{articles connexes}</code></h3>
-
-<ul>
-<li>asdf</li>
-<li>asdf</li>
-<li>asdf</li>
-<li>asdf</li>
-</ul>
-
-
-</div>
 
