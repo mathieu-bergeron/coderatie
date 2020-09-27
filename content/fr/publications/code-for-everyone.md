@@ -78,10 +78,10 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
         * plusieurs étapes à suivre pour créer un projet
     * il y a beaucoup à faire avant de créer un programme intéressant:
         * plusieurs concepts à apprivoiser (p.ex. type, attribut, méthode, héritage)
-        * plusieurs choix technologiques à effectuer (p.ex. comment afficher à l'écran)
+        * plusieurs choix technologiques à effectuer (p.ex. afficher en 2D ou en 3D?)
 
 À noter que les obstacles ci-haut concernent surtout les langages de
-programmation généralistes s'adressant à des
+programmation généralistes qui s'adressent à des
 programmeurs professionnels. Il existe déjà des langages conçus pour les
 débutants qui réduisent significativement ces difficultés.
 
