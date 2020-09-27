@@ -73,9 +73,12 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
     * pour le comprendre, il faut imaginer son comportement dans le temps
     * relier ce comportement au code est un défi, particulièrement pour les débutants
 1. Lourdeur des outils
-    * il y a typiquement plusieurs outils à installer et configurer
-    * il peut y avoir plusieurs étapes à réaliser avant même d'écrire du code
-    * certains outils sont lents et capricieux
+    * il y a beaucoup à faire avant même d'écrire du code:
+        * plusieurs outils à installer et configurer
+        * plusieurs étapes à suivre pour créer un projet
+    * il y a beaucoup à faire avant de créer un programme intéressant:
+        * plusieurs concepts à apprivoiser (p.ex. type, attribut, méthode, héritage)
+        * plusieurs choix technologiques à effectuer (p.ex. comment afficher à l'écran)
 
 À noter que les obstacles ci-haut concernent surtout les langages de
 programmation généralistes s'adressant à des
