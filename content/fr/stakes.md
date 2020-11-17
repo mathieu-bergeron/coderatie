@@ -17,7 +17,7 @@ slug: "les-enjeux"
 
 * Le débat doit porter sur le code source, le seul endroit où on peut espérer
   vérifier que nos systèmes informatiques ne cachent pas de comportements
-  malicieux
+  malicieux et ne reproduisent pas les préjugés de leurs créateurs
 
 * Pour ce faire, il faudra atteindre dans la population une masse critique
   d'individus habilités à comprendre le code source

@@ -22,7 +22,7 @@ L'analogie avec les langues naturelles est éclairante:
 * Littératie numérique
     * savoir utiliser l'ordinateur, c'est comme savoir lire et écrire uniquement avec des pictogrammes et des émojis.
 * Codératie
-    * savoir programmer, c'est comme pouvoir lire et écrire en français.
+    * savoir programmer, c'est comme pouvoir lire et écrire dans une langue naturelle comme le français.
 
 On voit clairement comment la littératie numérique équivaut, en terme d'informatique, à un genre d'analphabétisme fonctionnel.
 
@@ -46,50 +46,42 @@ Vouloir remplacer les langages de programmation par un système convivial, c'est
 
 ### Langage et liberté
 
-Donc, pour les programmeurs, remplacer les langages de programmation par autre chose est une genre de folie.
+Pour qui sait déjà programmer, l'idée de remplacer les langages de
+programmation par des systèmes graphiques est un non-sens, une perte de liberté
+incongrue qui provoque un indescriptible de frisson de dégoût. 
+Imaginez l'idée de remplacer le français par un système de pictogrammes
+(ou une novlangue à la 1984). Ne ressentez-vous pas intensément (voire physiquement) 
+l'immense perte que cela représente?
 
-Pourquoi est-ce que ça devrait être différent pour le citoyen? Pourquoi le citoyen devrait se contenter d'une méthode vastement inférieure d'interaction avec les ordinateurs?
+Pourquoi est-ce que ça devrait être différent pour le citoyen? Pourquoi le
+citoyen devrait se contenter d'une méthode vastement inférieure d'interaction
+avec les ordinateurs?
 
-Ça ne veut pas dire que tout le monde devrait contrôler son ordinateur avec un langage de programmation généraliste, mais on peut imaginer un juste milieu
-qui donne accès à la puissance des langages tout en étant facile à [apprendre et à enseigner]({{<ref code-for-everyone>}}).
-
-
-<!--
-
-## Je contrôle mon ordinateur avec un LANGAGE
-
-## Le défi de l'ergonomie existe toujours avec un LANGAGE, mais c'est beaucoup moins un défi
-
-Ce qui veut dire:
-
-1. Systèmes beaucoup plus simples et plus sécuritaires
-1. Coût de développement moindre
-1. Collaboration beaucoup plus facile (parce qu'on le fait directement dans le langage)
+Ça ne veut pas dire que nous devrions tout le temps utiliser le code pour
+intéragir avec nos ordinateurs.  Les systèmes graphiques ont leur
+place, bien sûr. Mais il y a fort à parier que leur place serait beaucoup plus petite
+si nous pouvions instaurer un taux de codértie plus élevé et développer
+des langages de programmation plus faciles à [apprendre et à enseigner]({{<ref
+code-for-everyone>}}).
 
 
-## Software usability
+### À qui profite votre littératie numérique?
 
-(ISO standard)
+La courte histoire de l'informatique est remplie de projets éducatifs
+visant à redonner du pouvoir à l'utilisateur-citoyen (je pense à Smalltalk et
+Logo, par exemple). C'est assez révélateur que les géants de l'informatique ont
+historiquement très peu investi dans ce genre de projet et ont à peu près jamais
+cherché à rendre leurs outils utilisables à travers du code, préférant
+offrir uniquement des interfaces graphiques.
 
-* Learnability
-* Efficiency
-* Memorability
-* Errors
-* Satisfaction
+De leur point de vue, l'utilisateur idéal possède une
+certaine compétence (une certaine littératie), mais n'est pas apte à comprendre
+en profondeur les outils qu'il utilise, ni à créer des alternatives. 
 
+C'est l'absence de codératie chez le grand public qui donne autant de pouvoir
+aux géants de l'informatique et qui permet aux *startups* de financer le 
+développement de systèmes visant sciemment à [perturber un secteur de l'économie]({{<ref direct-economy>}}).
 
-À noter que Bash est supérieur à n'importe quel gestionnaire de fichier graphique. Et ce même si Bash est super vieux et qu'on peut facilement imaginer un meilleur Bash avec une interface graphique à la IDE.
-
-Avec un interface graphique, l'ergonomie est difficile. Avec un langage, c'est excellent par défaut (et évidemment pourrait être encore mieux, mais ce n'est jamais terrible si le langage est bon).
-
-
-## Norman's principles
-
-1. Affordance
-1. Visibility
-1. Feedback
-1. Constraints
-1. Mapping
-1. Consistency
-
--->
+L'existence même du logiciel libre (conçu par et pour des programmeurs, et souvent
+distribué gratuitement) montre comment la codératie rééquilibre
+le rapport de force entre les citoyens et le capitalisme numérique.

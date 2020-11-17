@@ -28,26 +28,43 @@ afin que ce débat soit significatif.
 
 ### Le développement délibératif
 
-Mais on peut faire mieux. 
-En supposant un taux de codératie élevé, on peut imaginer une participation citoyenne
-à l'élaboration de ces systèmes informatiques.
-Un démocratie directe à large écheclle.
+Mais on peut faire mieux.  En supposant un taux de codératie élevé, on peut
+imaginer une participation citoyenne à l'élaboration de ces systèmes
+informatiques.  Un démocratie directe à l'échelle planétaire.
 
-Les citoyens pourraient ainsi faire valoir leurs droits en amont (c'est-à-dire dès l'élaboration 
-des futurs systèmes informatiques), et ce, directement dans le code source.
+Les citoyens pourraient ainsi faire valoir leurs droits en amont (c'est-à-dire
+dès l'élaboration des futurs systèmes informatiques), et ce, directement dans
+le code source.
 
-L'idée de bien commun serait définie et redéfinie collectivement à travers les délibérations entourant le code source.
+L'idée de bien commun serait définie et redéfinie collectivement à travers les
+délibérations entourant le code source.
 
 ### L'exemple du logiciel libre
 
-Ce qui s'approche le plus du style de démocratie directe que nous imaginons ici est le logiciel libre.
+Ce qui s'approche le plus du style de démocratie directe que nous imaginons ici
+est le logiciel libre.  Ce dernier stipule qu'il faut un accès illimité au code
+source (y compris la possibilité de le modifier et de l'exécuter sans
+contraintes).  Le logiciel libre est probablement le meilleur exemple de
+collaboration à large échelle que l'humanité a produit (possiblement avec
+Wikipedia).  Et pourtant, l'aspect démocratique n'y est malheureusement pas
+très développé.  Les projets les plus réussis (comme Linux), fonctionnent
+souvent de façon très autoritaire, avec un ou plusieurs concepteurs prennant
+unilatéralement les décisions importantes.
 
-Ce dernier stipule qu'il faut un accès illimité au code source (y compris la possibilité de le modifier et de l'exécuter sans contraintes).
+Bref, le développement délibératif que nous imaginons ici est une itération sur
+l'idée du logiciel libre (un nouvelle version du logiciel libre).
 
 
 ### Équilibrer liberté et bien commun
 
-Pour rendre cette liberté totale compatible avec le bien commun, il faudra trouver un point d'équilibre, en particulier [économique]({{<ref direct-economy>}}).
+Un autre enjeu avec le logiciel libre est l'insistance sur une liberté totale
+pour le programmeur-utilisateur,
+ce qui équivaut en pratique à forcer une certaine gratuité (pourquoi payer si j'ai 
+la liberté d'utiliser le code comme bon me semble?).
+
+Le développement délibératif aurait à trouver un point d'équilibre entre la
+liberté du citoyen-utilisateur et le bien commun, en particulier
+[économique]({{<ref direct-economy>}}).
 
 
 

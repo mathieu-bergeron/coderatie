@@ -43,8 +43,8 @@ informatique émancipatrice]({{<ref empowerment>}}) est directement reliée à:
 1.  Notre incapacité à promouvoir la codératie
 1.  La soif de profits d'une
 industrie de l'informatique 
-qui ne tente que très rarement d'offrir des outils
-qui respectent et encouragent la liberté des utilisateurs.
+qui n'offre que très rarement des outils
+respectant et encouragant la liberté des utilisateurs.
 
 ### Redistribution directe des revenus
 
@@ -58,7 +58,10 @@ s'assurant que l'exécution du code s'accompagne d'informations visant à
 rémunérer les créateurs du code et à effectuer une redistribution
 des revenus.
 
-Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie.
+Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie,
+pour reprendre l'argumentaire de 
+<a href="http://www.jaronlanier.com/" target="_blank">Jaron
+Lanier</a>   dans *Who Owns the Future?*.
 
 ### Les interprètes humain-machine
 
@@ -66,23 +69,21 @@ Même si les machines deviennent plus efficaces que les humains à une tâche
 particuilère, il ne faut pas penser que l'expertise humaine perd toute sa
 valeur.  Reprennons l'exemple des
 [radiologistes](/publications/comprendre-le-monde#radiologie) et des
-algorithmes capables de diagnostiquer le cancer. Comme nous l'avons vu, 
-les radiologistes seront encore en demande pour accompagner les patients qui
-recoivent ces diagnotics et pour mettre en doute les diagnostics les plus
-louches (la machine n'est pas infaillible).
-
-Il se peut que les salaires des radiologistes baissent, mais ce serait une
-erreur de penser que ce qu'ils ont à offrir n'aurait plus de valeur.
+algorithmes capables de diagnostiquer le cancer. Les radiologistes seront
+encore en demande pour accompagner les patients qui recoivent ces diagnotics et
+pour mettre en doute les diagnostics les plus louches (la machine n'est pas
+infaillible).  Il se peut que les salaires des radiologistes baissent, mais ce
+serait une erreur de penser que ce qu'ils ont à offrir n'aurait plus de valeur.
+Encore faut-il [continuer à les former]({{<ref understanding-the-world>}}).
 
 ### Les experts contribuent au code
 
-Comme nous l'envisageons ici, les radiologistes gagneraient aussi une nouvelle opportunité
-de revenus: l'amélioration des algorithmes.  Grace à leur codératie, ces
-derniers pourraient manipuler eux-mêmes différents algorithmes, les comparer,
-étudier leur fonctionnement et, finalement, proposer des améliorations.
-
-Ces améliorations seraient rémunérées directement lors de l'utilisation
-des algorithmes améliorés.
+Comme nous l'envisageons ici, les radiologistes gagneraient aussi une nouvelle
+opportunité de revenus: l'amélioration des algorithmes.  Grace à leur
+codératie, ces derniers pourraient manipuler eux-mêmes différents algorithmes,
+les comparer, étudier leur fonctionnement et, finalement, proposer des
+améliorations.  Ces améliorations seraient rémunérées directement lors de
+l'utilisation des algorithmes améliorés.
 
 
 

@@ -30,8 +30,6 @@ Enseigner la programmation à tous les niveaux.
 -->
 
 
-
-
 ### L'informatique est multidisciplinaire
 
 D'abord, notons que l'informatique moderne est profondément multidisciplinaire. 
@@ -148,7 +146,6 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
     * on crée ainsi des petits jeux vidéo
 1. Il s'agit d'une application Web 
     * il n'y a rien à installer ou configurer
-
 
 <!-- TODO: generate  
 <div style="background-color:lightgray;">
