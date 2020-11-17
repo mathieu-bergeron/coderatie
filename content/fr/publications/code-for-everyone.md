@@ -7,7 +7,7 @@ slug: "le-code-pour-tous"
 Enseigner la programmation à tous les niveaux.
 <!--more-->
 
-<!-- TODO: generate: breadcrumps + TOC -->
+<!-- TODO: generate: breadcrumps + TOC 
 {{partial "breadcrumbs.html" .}}
 <nav id="TableOfContents">
 <ul>
@@ -27,6 +27,7 @@ Enseigner la programmation à tous les niveaux.
 </li>
 </ul>
 </nav>
+-->
 
 
 
@@ -149,7 +150,7 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
     * il n'y a rien à installer ou configurer
 
 
-<!-- TODO: generate  -->
+<!-- TODO: generate  
 <div style="background-color:lightgray;">
 <h3 id='articles-connexes'>Voir aussi</h3>
 
@@ -158,7 +159,7 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
 <li>asdf</li>
 <li>asdf</li>
 <li>asdf</li>
-</ul>
+</ul> -->
 
 
 </div>

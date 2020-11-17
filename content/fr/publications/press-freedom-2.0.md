@@ -42,7 +42,7 @@ systèmes informatiques de façon constructive.
 
 ### Un nouveau contre-pouvoir
 
-Il faut s'inspirer du mouvement du logiciel libre.
+Il faut s'inspirer du mouvement du logiciel libre
 et exiger d'avoir accès au code source des systèmes informatiques que nous utilisons.
 
 Dans un avenir où le taux de codératie serait élevé, cet accès au code source sera extrêmement bénéfique pour la société, 
