@@ -81,12 +81,13 @@ débuter illico des traitements éprouvants?
 
 ### Améliorer collectivement les algorithmes
 
-La compréhension artificielle des médias sociaux est probablement trop superficielle pour détecter les fameuses fausses nouvelles.
-
-Il faut que ces systèmes partagent cette compréhension artificielle si on veut trouver comment l'améliorer.
-
+L'IA des médias sociaux est trop superficielle pour détecter les fameuses fausses nouvelles.
+Pour lutter contre ces fausses nouvelles (et autres assauts à la dignité humaine), il faudrait que cette IA soit
+développée de façon beaucoup plus transparente, devenant ainsi le résultat d'une collaboration à large échelle
+entre informaticiens, juristes, linguistes, artistes, pédagogues, etc.
 Bref, la responsabilité d'améliorer les algorithmes devrait être partagée et les systèmes informatiques devraient faciliter la participation d'experts humains à 
-l'analyse des données.
+l'analyse des données. 
+C'est de cette façon que nous obtiendrons des IA plus nuancées, moins biaisées, et servant d'alliées aux humains dans leur quête de compréhension du monde.
 
 
 
