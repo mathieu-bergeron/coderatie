@@ -1,35 +1,12 @@
 ---
-title: "Coder dès le primaire"
+title: "Le code pour tous"
 date: 2020-08-29T03:22:41-04:00
 slug: "le-code-pour-tous"
 ---
 
-Bâtir une informatique beaucoup plus représentative.
+L'informatique de demain se doit d'être plus représentative.
 
 <!--more-->
-
-<!-- TODO: generate: breadcrumps + TOC 
-{{partial "breadcrumbs.html" .}}
-<nav id="TableOfContents">
-<ul>
-<li><a href="/categories">Tout le contenu</a> >
-<ul>
-<li><a href="/publications">Les grandes lignes</a> >
-<ul>
-<li><a href="">Le code pour tous</a> >
-<ul>
-<li><a href="#linformatique-est-multidisciplinaire">L’informatique est multidisciplinaire</a></li>
-<li><a href="#un-enseignement-intégré-et-porteur">Un enseignement intégré et porteur</a></li>
-<li><a href="#mais-avec-quel-objectif">Mais avec quel objectif?</a></li>
-<li><a href="#les-principaux-bloquants-à-surmonter">Les principaux bloquants à surmonter</a></li>
-<li><a href="#lexemple-de-scratch">L’exemple de Scratch</a></li>
-<li><a href="#lexemple-de-scratch">Voir aussi</a></li>
-</ul>
-</li>
-</ul>
-</nav>
--->
-
 
 ### L'informatique est multidisciplinaire
 
@@ -147,18 +124,4 @@ L'outil <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" t
     * on crée ainsi des petits jeux vidéo
 1. Il s'agit d'une application Web 
     * il n'y a rien à installer ou configurer
-
-<!-- TODO: generate  
-<div style="background-color:lightgray;">
-<h3 id='articles-connexes'>Voir aussi</h3>
-
-<ul>
-<li>asdf</li>
-<li>asdf</li>
-<li>asdf</li>
-<li>asdf</li>
-</ul> -->
-
-
-</div>
 
