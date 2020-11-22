@@ -4,7 +4,7 @@ date: 2020-08-29T03:22:41-04:00
 slug: "le-code-pour-tous"
 ---
 
-Répendre la litératie du code et la rendre beaucoup plus représentative.
+Répendre la litératie du code parmi tous les segments de la population.
 
 <!--more-->
 
