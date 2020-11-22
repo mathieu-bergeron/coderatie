@@ -4,30 +4,27 @@ date: 2020-03-29T06:52:00-04:00
 draft: false
 ---
 
-Afin de rendre l'apprentissage de la programmation plus accessible, nous
-proposons une approche où l'étudiant.e pourra dicter des commandes dans une
-langue naturelle comme le français et visualiser les instructions que
-l'ordinateur exécute pour y répondre.  Nous espérons ainsi permettre à
-l'étudiant.e de réaliser son apprentissage de façon plus graduelle.
+To make learning programming more accessible, we propose an approach where the
+student will issue commands in a natural language such as English, and will be
+able to visualize the instructions that the computer executes in order to
+realize those commands.  We hope to render the learning more gradual.
 
+### Problems adressed
 
-### Problématique abordée 
+Learning to program can be divided in two main proficiencies:
 
-L'apprentissage de la programmation se divise en deux compétences majeures: 
+1. master the formal syntax of source code
+1. create a personal mental model of how the computer executes that code, step by step
 
-1. maîtriser la syntaxe formelle du code 
-1. se créer un modèle mental de comment l'ordinateur exécute ce code, étape par étape.
+Typically, a student has to master those proficiencies from examples and
+exerices formulated in a professionnal programming language such as Java.
+The curve is steep, as these languages are not designed with teaching in mind:
 
-Typiquement, l'étudiant.e doit acquérir ces compétences à partir d'exemples et
-exercices tirés de langages de programmation professionnels comme Java.  La
-marche est haute, car ces langages ne sont pas conçus pour l'enseignement:
+1. the syntax if hairy and capricious
+1. understanding the execution model requires knowledge that is inacessible to students (e.g. either
+how the computer functions internally or the theory of programming languages).
 
-1. la syntaxe est touffue et capricieuse
-1. comprendre le modèle d'exécution requiert des connaissances préalables inaccessibles aux étudiant.es (soit le
-fonctionnement interne de l'ordinateur et la théorie des langages de
-programmation).
-
-### Approche proposée
+### Proposed approach
 
 Notre projet vise à rendre l'apprentissage de la programmation plus graduel.
 Dans un premier temps, une intelligence artificielle permettra à l'étudiant.e
