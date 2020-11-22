@@ -26,25 +26,22 @@ how the computer functions internally or the theory of programming languages).
 
 ### Proposed approach
 
-Notre projet vise à rendre l'apprentissage de la programmation plus graduel.
-Dans un premier temps, une intelligence artificielle permettra à l'étudiant.e
-de dicter des commandes en langue naturelle (un peu comme les assistants sur
-les téléphones multifonctions: «Je veux dessiner un cercle»). Ces commandes
-seront interprétées comme du code dans un langage de programmation spécialisé
-pour l'enseignement, mais syntaxiquement proche de Java. L'étudiant.e pourra
-explorer à son rythme cette traduction en code, lui permettant ainsi de se
-familiariser graduellement avec sa syntaxe formelle.
+We aim for students to learn programming more gradually.  Firstly, we will
+build a AI to allow the student to issue commands in a natural language such as
+English (i.e. a little bit like assistants on smartphones: "I want to draw a
+circle").  These commands will be translated as code in a simple programming
+language specialized for teaching, but syntaxically close to popular
+programming languages such as Java. 
+The student will be able to explore that translation at her own pace.
 
-Dans un deuxième temps, l'exécution du code sera visuelle, dans la tradition
-des langages de programmation pédagogiques comme Logo, Smalltalk et, plus
-récemment, Scratch. L'étudiant.e pourra plus facilement se créer un modèle
-mental du fonctionnement du programme. Encore une fois, l'étudiant.e pourra
-explorer à son rythme la relation entre cette visualisation et les détails de
-l'exécution du code.
+Secondly, the execution of the code will be visual (e.g. it will draw a circle
+on the screen), in the tradition of pedagogical programming languages like
+Logo, Smalltalk and more recently Scratch. The student will be able to more
+easily create a mental model of how the code works. Again, the student will be
+able to explore by herself the relation between the visualisation and the
+details of the code execution.
 
-Notre approche se distingue des outils pédagogiques existants de deux façons:
+Our approach is novel in two ways:
 
-1. l'utilisation d'intelligence artificielle pour rendre l'outil aussi
-accessible que possible 
-1. l'idée de guider l'étudiant.e pas à pas vers
-l'apprentissage d'un langage généraliste comme Java.
+1. using AI and natural language to render the tool as accessible as possible
+1. progressively guiding the student towards an understanding of a real-life general programming language like Java.
