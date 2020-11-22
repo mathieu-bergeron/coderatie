@@ -4,7 +4,8 @@ date: 2020-08-29T03:22:41-04:00
 slug: "le-code-pour-tous"
 ---
 
-Enseigner la programmation à tous les niveaux.
+Répendre la litératie du code et la rendre beaucoup plus représentative.
+
 <!--more-->
 
 <!-- TODO: generate: breadcrumps + TOC 
