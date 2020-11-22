@@ -30,10 +30,15 @@ theme = "chunky_dates_fr"
                 url = "/vision"
                 weight=10
             [[languages.en.menu.main]]
+                identifier = "research-project"
+                name = "Research project"
+                url = "/research-project"
+                weight=15
+            [[languages.en.menu.main]]
                 identifier = "how-to-help"
                 name = "How can I help?"
                 url = "/how-to-help"
-                weight=15
+                weight=20
             #[[languages.en.menu.main]]
                 #identifier = "toc"
                 #name = "Table of content"
@@ -58,10 +63,15 @@ theme = "chunky_dates_fr"
                 url = "/vision"
                 weight=10
             [[languages.fr.menu.main]]
+                identifier = "research-project"
+                name = "Projet de recherche"
+                url = "/projet-de-recherche"
+                weight=15
+            [[languages.fr.menu.main]]
                 identifier = "how-to-help"
                 name = "Comment puis-je aider?"
                 url = "/comment-aider"
-                weight=15
+                weight=20
             #[[languages.fr.menu.main]]
                 #identifier = "toc"
                 #name = "Table des matères"
