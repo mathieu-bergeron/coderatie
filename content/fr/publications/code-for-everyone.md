@@ -1,10 +1,10 @@
 ---
-title: "Le code pour tous"
+title: "Coder dès le primaire"
 date: 2020-08-29T03:22:41-04:00
 slug: "le-code-pour-tous"
 ---
 
-Répendre la litératie du code parmi tous les segments de la population.
+Bâtir une informatique beaucoup plus représentative.
 
 <!--more-->
 
