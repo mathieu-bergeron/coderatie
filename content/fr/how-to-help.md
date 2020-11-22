@@ -46,7 +46,7 @@ slug: "comment-aider"
           target="_blank">langues contrôlées 🔗</a>  pour rendre ces
           explications accessibles au grand public.
     1. Techniques et langages de programmation qui supportent:
-        * L'enseignement
+        * [L'enseignement]({{<ref research-project>}})
         * L'extraction et l'explication des portions clés d'un programme (les
           endroits qui prennent des décisions impliquant les usagers).
         * Délibération: mener des débats à propos du code directement à même le
