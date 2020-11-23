@@ -9,9 +9,9 @@ draft: false
 * When coderacy reaches a significant level, software will be very different 
     from what it is today
 
-* The free software community already has a taste of this future: software and 
-tools that are transparent, that respect privacy and that do not harbor tactics of
-economic exploitation.
+* The free software community already has a taste of that future: software and
+  tools that are transparent, that put humans in control, that respect privacy,
+  and that do not hide tactics of economic exploitation.
 
 * But there's more: when using code to control a software tool, 
 the possibilities for experimentation and creation explode.
@@ -20,5 +20,5 @@ the possibilities for experimentation and creation explode.
 how software works and to learn to formulate constructive criticism about new technologies.
 
 * And finally, our dream: deliberation around source code will become a new way for citizens to defend their rights.
-In term, we are dreaming of nothing less than the emergence of a new democratic space.
+In term, we are dreaming of nothing less than the emergence of a new kind of democracy.
 
