@@ -7,12 +7,12 @@ draft: false
 * The rise of artificial intelligence is worrisome economically (as many jobs are devalued) and 
 culturally (as the task of understanding our world is increasingly delegated to machines).
 
-* To preserve human dignity, we must learn to discuss effectively about the behavior of computer systems
+* To preserve human dignity, we must learn to deliberate effectively about the behavior of computer systems
 
 * Algorithms are too complex and change too rapidly for traditional means of debate
 
 * Deliberations must be about source code, the only place where we can hope
-to verify that computer systems do not harbor maliciuous intent
+to verify that computer systems do not harbor maliciuous intent or reproduce their creators' biases.
 
 * To achieve this goal, we need a critical mass of people able to understand source code
 
