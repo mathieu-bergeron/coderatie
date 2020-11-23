@@ -38,13 +38,15 @@ slug: "comment-aider"
     1. <a
     href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"
     target="_blank">IA explicable 🔗</a>
-        * Rendre l'apprentissage machine plus intelligible. En particulier,
+        * Rendre les modèles issus de l'apprentissage machine plus intelligibles. En particulier,
           trouver des techniques capables de générer, dans un langage formel
           dédié à cet effet, des explications pour chaque décision du système.
           Se servir de <a
           href="https://fr.wikipedia.org/wiki/Langue_contr%C3%B4l%C3%A9e"
           target="_blank">langues contrôlées 🔗</a>  pour rendre ces
           explications accessibles au grand public.
+        * Rendre l'apprentissage machine plus éthique en intégrant des objectifs comme la protection
+          de la vie privée et l'équité.
     1. Techniques et langages de programmation qui supportent:
         * [L'enseignement]({{<ref research-project>}})
         * L'extraction et l'explication des portions clés d'un programme (les
