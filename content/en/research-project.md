@@ -36,7 +36,8 @@ as English (a little bit like assistants on smartphones: "I want to draw a
 circle").  These commands will be translated to programs in a simple
 programming language specialized for teaching, but syntaxically close to
 popular programming languages such as Java.  The student will be able to
-explore that translation at her own pace.
+explore that translation at her own pace, ideally by formulating and validating
+her own hypotheses in a sort of human-machine dialog.
 
 Secondly, the execution of the code will be visual (i.e. it will draw a circle
 on the screen), in the tradition of programming languages like
