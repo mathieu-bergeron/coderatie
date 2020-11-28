@@ -1,6 +1,6 @@
 ---
 title: "Dialogues interculturels"
-date: 2020-08-08T05:50:08-04:00
+date: 2019-08-08T05:50:08-04:00
 slug: "dialogues"
 draf : true
 ---
@@ -37,7 +37,7 @@ Ce dialogue est essentiel:
 Si le point 3 ci-haut vous a paru évident, alors que le point 4 vous a semblé
 étrange (ou inversement, que le 3 vous a surpris, alors le 4 vous a paru
 évident), vous venez peut-être d'expérimenter le fossé culturel que nous
-espérons combler.
+voulons apprendre à combler.
 
 ## Ouvrir le dialogue
 
@@ -63,11 +63,15 @@ algorithmes*) se propose de commenter les autres textes du dossier:
 <h2 id="crypter">Crypter les oppressions</h2>
 
 <h2 id="fantasme">Le fantasme du juge robot</h2>
+
+
 <h2 id="temps">Au temps de la spéculation amoureuse</h2>
+
+
 <h2 id="brb">brb (irl)</h2>
+
+
 <h2 id="cartes">Les cartes ne sont que discours</h2>
-
-
 
 
 <!--
