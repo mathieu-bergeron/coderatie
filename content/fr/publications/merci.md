@@ -1,7 +1,8 @@
 ---
 title: "Merci pour le dossier"
 date: 2019-08-04T03:22:41-04:00
-slug: "economie-directe"
+slug: "merci-liberte"
+draft: true
 ---
 
 Merci pour le dossier
