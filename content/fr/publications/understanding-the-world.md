@@ -4,7 +4,7 @@ date: 2020-08-20T12:47:16-04:00
 slug: "comprendre-le-monde"
 ---
 
-Transformer l'IA un outil pédagogique.
+Transformer l'IA en outil pédagogique.
 <!--more-->
 
 ### La compréhension artificielle
