@@ -4,7 +4,7 @@ date: 2020-08-03T12:50:58-04:00
 slug: "reinventer-la-democratie"
 ---
 
-En impliquant le citoyen dans le développement des systèmes informatiques.
+En impliquant les citoyennes et les citoyens dans le développement des systèmes informatiques.
 <!--more-->
 
 ### Quand les algorithmes décident
