@@ -115,55 +115,56 @@ def graphe_tournois():
         plt.tight_layout()
 
 
-        fig.savefig('graphe_deux.pdf')
+        fig.savefig('tournois.pdf')
         #\pgfpathrectangle{\pgfqpoint{0.3in}{0in}}{\pgfqpoint{4.200000in}{3.800000in}}%
 
         #fig.savefig('tournois_par_annee_ajuste.pgf')
         #fig.savefig('tournois_par_annee_ajuste.pdf')
 
-def graphe_joueurs_historique():
-    with open('joueurs_nes_cette_annee_M_ajuste.txt') as entree_m:
-        annees_m, nombres_m = lire_entree(entree_m)
+def graphe_joueurs_historique(files, nom_sortie):
+    for data_file in files:
+        with open(data_file) as entree_m:
+            annees_m, nombres_m = lire_entree(entree_m)
 
-        fig, ax = plt.subplots()
+            fig, ax = plt.subplots()
 
-        ax.plot(annees_m, nombres_m, 'k-')
+            ax.plot(annees_m, nombres_m, 'k-')
 
-        #plt.grid(b=False, which='minor')
+            #plt.grid(b=False, which='minor')
 
-        plt.xticks(rotation=0)
+            plt.xticks(rotation=0)
 
-        annees_filtrees = [annee for annee in annees_m if int(annee)%20==0]
+            annees_filtrees = [annee for annee in annees_m if int(annee)%20==0]
 
 
-        plt.xticks(annees_filtrees, annees_filtrees)
+            plt.xticks(annees_filtrees, annees_filtrees)
 
-        #ax.set(xlabel=titre_x, ylabel=titre_y,
-                       #title=titre)
+            #ax.set(xlabel=titre_x, ylabel=titre_y,
+                           #title=titre)
 
-        ax.yaxis.set_label_position("right")
-        ax.yaxis.tick_right()
+            ax.yaxis.set_label_position("right")
+            ax.yaxis.tick_right()
 
-        plt.xlabel(u'Année de naissance', fontsize=24, family='times')
+            plt.xlabel(u'Année de naissance', fontsize=24, family='times')
 
-        plt.ylabel(u'Joueurs cotés', fontsize=24, family='times')
+            plt.ylabel(u'Joueurs cotés', fontsize=24, family='times')
 
-        plt.xticks(fontsize=16)
-        plt.yticks(fontsize=16)
+            plt.xticks(fontsize=16)
+            plt.yticks(fontsize=16)
 
-        ax.xaxis.labelpad = 10
-        ax.yaxis.labelpad = 20
+            ax.xaxis.labelpad = 10
+            ax.yaxis.labelpad = 20
 
-        #ax.grid()
+            #ax.grid()
 
-        fig.set_size_inches(5, 5)
+            fig.set_size_inches(5, 5)
 
-        plt.tight_layout()
+            plt.tight_layout()
 
-        # hum... la boundingbox est trop petite!
-        #        ajuster à la main
-        fig.savefig('graphe_un.pdf')
-        #\pgfpathrectangle{\pgfpointorigin}{\pgfqpoint{4.500000in}{4.000000in}}%
+            # hum... la boundingbox est trop petite!
+            #        ajuster à la main
+            fig.savefig(nom_sortie)
+            #\pgfpathrectangle{\pgfpointorigin}{\pgfqpoint{4.500000in}{4.000000in}}%
 
 if __name__ == '__main__':
 
@@ -171,8 +172,7 @@ if __name__ == '__main__':
 
     plt.clf() # clear figure
 
-
-    graphe_joueurs_historique()
+    graphe_joueurs_historique(['joueurs1990.txt'], 'joueurs1990.pdf')
 
     exit()
 

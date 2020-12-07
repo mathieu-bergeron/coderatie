@@ -1,4 +1,5 @@
 theme = "chunky_dates_fr"
+ignoreFiles = [ "mars2021" ]
 
 [markup]
   [markup.goldmark]
@@ -8,6 +9,8 @@ theme = "chunky_dates_fr"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+
 
 [languages]
     [languages.en]
