@@ -3,10 +3,22 @@
 
 import matplotlib
 
-#matplotlib.use("pgf")
+matplotlib.use("pgf")
 
 import matplotlib.pyplot as plt
 
+plt.rcParams.update({
+    "font.family": "serif",  
+    "font.serif": ["Times", "Times New Roman", "times"],
+    "text.usetex": True,     # use inline math for ticks
+    "pgf.rcfonts": False,    # don't setup fonts from rc parameters
+    "pgf.preamble": [
+        "\\usepackage{times}",
+        #"\\setmainfont{times}",  # serif font via preamble
+        #"\\usepackage{unicode-math}",   # unicode math setup
+    #    r"\setmathfont{xits-math.otf}",
+    ]
+})
 
 import re
 
@@ -23,7 +35,7 @@ def lire_entree(entree):
 
         ligne = ligne.rstrip()
         champs = ligne.split(' ')
-        annee = champs[0]
+        annee = int(champs[0])
         nombre = int(champs[1])
 
         annees.append(annee)
@@ -112,7 +124,6 @@ def graphe_joueurs_historique(files, nom_sortie):
 
     fig, ax = plt.subplots()
 
-
     for file_index, data_file in enumerate(files):
         with open(data_file) as entree_m:
 
@@ -120,8 +131,22 @@ def graphe_joueurs_historique(files, nom_sortie):
 
             annees_m, nombres_m = lire_entree(entree_m)
 
+            if data_file == 'joueurs1990.txt' and nom_sortie == 'joueurs1990.pdf':
+                ax.set_ylim(top=20000)
+
             if data_file == 'joueurs1990.txt':
                 ax.plot(annees_m, nombres_m, '-', color='black')
+
+            elif data_file == 'joueursFictif.txt':
+                ax.plot(annees_m, nombres_m, '--', color='black')
+
+                ax.text(0.9,0.5, "?", size=20,
+                        transform=ax.transAxes,
+                        ha="center", va="center",
+                        bbox=dict(boxstyle="round",
+                                  ec='black',
+                                  fc='white',))   
+
             elif data_file == 'joueursA.txt':
                 ax.plot(annees_m, nombres_m, ':', color='green')
 
@@ -135,7 +160,7 @@ def graphe_joueurs_historique(files, nom_sortie):
             elif data_file == 'joueursB.txt':
                 ax.plot(annees_m, nombres_m, '-.', color='orange')
 
-                ax.text(0.8,0.3, "B", size=20,
+                ax.text(0.9,0.3, "B", size=20,
                         transform=ax.transAxes,
                         ha="center", va="center",
                         bbox=dict(boxstyle="round",
@@ -152,23 +177,22 @@ def graphe_joueurs_historique(files, nom_sortie):
                                   ec='red',
                                   fc='white',))   
 
-            #plt.grid(b=False, which='minor')
-
             if file_index == 0:
-                annees_filtrees = [annee for annee in annees_m if int(annee)%10==0 or int(annee) == 1951]
-                plt.xticks(annees_filtrees, annees_filtrees)
+                annees_filtrees = [int(annee) for annee in annees_m if int(annee)%10==0 or int(annee) == 1951]
+                if data_file == 'joueursFictif.txt':
+                    annees_filtrees.append(1990)
+                    ax.set_xlim(right=1995)
+                labels = [str(annee) for annee in annees_filtrees]
+                plt.xticks(annees_filtrees, labels)
 
-            #ax.set(xlabel=titre_x, ylabel=titre_y,
-                           #title=titre)
-
-    plt.xticks(rotation=0)
 
     ax.yaxis.set_label_position("right")
     ax.yaxis.tick_right()
 
     plt.xlabel(u'Année de naissance', fontsize=24, family='times')
-
     plt.ylabel(u'Joueurs cotés', fontsize=24, family='times')
+
+    plt.xticks(rotation=0)
 
     plt.xticks(fontsize=16)
     plt.yticks(fontsize=16)
@@ -177,8 +201,6 @@ def graphe_joueurs_historique(files, nom_sortie):
     ax.yaxis.labelpad = 20
 
     ax.set_ylim(bottom = 5000)
-
-    #ax.grid()
 
     fig.set_size_inches(8, 5)
 
@@ -197,8 +219,7 @@ if __name__ == '__main__':
 
     plt.clf() # clear figure
 
-    graphe_joueurs_historique(['joueurs1990.txt'], 'joueurs1990.pdf')
-
+    graphe_joueurs_historique(['joueursFictif.txt', 'joueurs1990.txt'], 'joueurs1990.pdf')
 
     graphe_joueurs_historique(['joueursA.txt', 'joueursB.txt', 'joueursC.txt', 'joueurs1990.txt'], 'joueursABC.pdf')
 
