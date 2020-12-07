@@ -132,10 +132,13 @@ def graphe_joueurs_historique(files, nom_sortie):
             annees_m, nombres_m = lire_entree(entree_m)
 
             if data_file == 'joueurs1990.txt' and nom_sortie == 'joueurs1990.pdf':
-                ax.set_ylim(top=20000)
+                ax.set_ylim(top=20500)
 
             if data_file == 'joueurs1990.txt':
                 ax.plot(annees_m, nombres_m, '-', color='black')
+
+            elif data_file == 'joueursReel.txt':
+                ax.plot(annees_m, nombres_m, '-', color='green')
 
             elif data_file == 'joueursFictif.txt':
                 ax.plot(annees_m, nombres_m, '--', color='black')
@@ -222,6 +225,8 @@ if __name__ == '__main__':
     graphe_joueurs_historique(['joueursFictif.txt', 'joueurs1990.txt'], 'joueurs1990.pdf')
 
     graphe_joueurs_historique(['joueursA.txt', 'joueursB.txt', 'joueursC.txt', 'joueurs1990.txt'], 'joueursABC.pdf')
+
+    graphe_joueurs_historique(['joueursReel.txt', 'joueurs1990.txt'], 'joueursReel.pdf')
 
     exit()
 
