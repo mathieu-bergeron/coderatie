@@ -1,0 +1,48 @@
+\documentclass[12pt]{standalone}
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+
+
+\usepackage{tikz}
+
+
+\begin{document}%
+\begin{tikzpicture}%
+
+    \draw[line width=3pt, ->] (0cm,0cm) -- (0cm,3cm);
+    \draw[line width=3pt, <->] (-5cm,0cm) -- (5cm,0cm);
+    \draw (0cm,3.5cm) node {\textbf{Liberté}};
+    \draw (5cm,-0.5cm) node [anchor=east] {\textbf{Répartie}};
+    \draw (-5cm,-0.5cm) node [anchor=west] {\textbf{Concentrée}};
+
+    %\draw (0cm,2.75cm) node [anchor=center] {traductions Google?};
+
+
+    \draw (4.5cm,2.75cm) node [anchor=east]  { échecs $\bullet$ };
+
+    \draw (-4.5cm,2.5cm) node [anchor=west]  {$\bullet$ \parbox[t]{4cm}{code source\\Uber}};
+
+    %\draw (-0.5cm,1.5cm) node [anchor=west]  {$\bullet$ \parbox[t]{4cm}{service Web\\Uber}};
+
+    \draw (4.5cm, 1.15cm) node [anchor=east]  {recherches Google $\bullet$};
+    \draw (4.5cm, 0.5cm) node [anchor=east]  {appli Uber $\bullet$};
+
+    %\draw (5cm,3cm) node [anchor=east] { traductions \texttt{apertium} $\bullet$};
+
+    %\draw (5cm,3cm) node [anchor=east] { crypto-monnaie $\bullet$};
+
+    %\draw (5cm,2.5cm) node [anchor=east] { prévisions météo $\bullet$};
+
+    %\draw[line width=1pt, |-|] (-2.5cm,1.25cm) -- (2.5cm,1.25cm);
+    %\draw (-0.05cm,0.8cm) node [anchor=east] {traductions};
+    %\draw (0.05cm,0.75cm) node [anchor=west] {Google?};
+
+    %\draw (-4.3cm,2.5cm) node [anchor=west] {$\bullet$ \parbox[b]{4cm}{recommandations\\Facebook}};
+    %\draw (-5cm,3cm) node [anchor=west] {$\bullet$ Uber};
+
+    %\draw (-5cm,2.5cm) node [anchor=west] {$\bullet$ Youtube};
+
+
+\end{tikzpicture}%
+\end{document}

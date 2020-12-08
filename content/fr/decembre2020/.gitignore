@@ -1,0 +1,15 @@
+*.log
+*.dvi
+*.aux
+*.pdf
+*.eps
+*.idx
+*.out
+*.bbl
+*.blg
+*.swp
+*.dpth
+*.md5
+*.auxlock
+*.svg
+*.ps
