@@ -1,5 +1,5 @@
 theme = "chunky_dates_fr"
-ignoreFiles = [ "mars2021" ]
+ignoreFiles = [ "decembre2020" ]
 
 [markup]
   [markup.goldmark]
