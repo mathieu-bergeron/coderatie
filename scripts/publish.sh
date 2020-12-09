@@ -49,6 +49,7 @@ hugo
 
 # rsync to server
 rsync -r --delete public/* coderatie.org:~/perso/coderatie/
+rsync -r --delete content/fr/decembre2020 coderatie.org:~/perso/coderatie/content/fr/
 
 git checkout mbergeron
 
