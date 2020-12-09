@@ -6,9 +6,22 @@
 
 \usepackage{tikz}
 
+%\definecolor{sens}{RGB}{231, 111, 81}
+\definecolor{sens}{HTML}{e76f51}
+
 
 \begin{document}%
 \begin{tikzpicture}%
+
+
+    \begin{scope}
+        \clip (0cm,0cm) rectangle (5cm,3cm);
+        \shade[inner color=sens,outer color=white] (5cm,3cm) circle (2.5cm);
+    \end{scope}
+
+
+
+
 
     \draw[line width=3pt, ->] (0cm,0cm) -- (0cm,3cm);
     \draw[line width=3pt, <->] (-5cm,0cm) -- (5cm,0cm);

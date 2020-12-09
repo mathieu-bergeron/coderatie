@@ -138,7 +138,7 @@ def graphe_joueurs_historique(files, nom_sortie):
                 ax.plot(annees_m, nombres_m, '-', color='black')
 
             elif data_file == 'joueursReel.txt':
-                ax.plot(annees_m, nombres_m, '-', color='green')
+                ax.plot(annees_m, nombres_m, '-', color='#2a9d8f') # vert
 
             elif data_file == 'joueursFictif.txt':
                 ax.plot(annees_m, nombres_m, '--', color='black')
@@ -151,33 +151,33 @@ def graphe_joueurs_historique(files, nom_sortie):
                                   fc='white',))   
 
             elif data_file == 'joueursA.txt':
-                ax.plot(annees_m, nombres_m, ':', color='green')
+                ax.plot(annees_m, nombres_m, ':', color='#2a9d8f') # vert
 
                 ax.text(0.8,0.8, "A", size=20,
                         transform=ax.transAxes,
                         ha="center", va="center",
                         bbox=dict(boxstyle="round",
-                                  ec='green',
+                                  ec='#2a9d8f',
                                   fc='white',))   
 
             elif data_file == 'joueursB.txt':
-                ax.plot(annees_m, nombres_m, '-.', color='orange')
+                ax.plot(annees_m, nombres_m, '-.', color='#e9c46a') # jaune
 
                 ax.text(0.9,0.3, "B", size=20,
                         transform=ax.transAxes,
                         ha="center", va="center",
                         bbox=dict(boxstyle="round",
-                                  ec='orange',
+                                  ec='#e9c46a',
                                   fc='white',))   
 
             elif data_file == 'joueursC.txt':
-                ax.plot(annees_m, nombres_m, '--', color='red')
+                ax.plot(annees_m, nombres_m, '--', color='#e76f51') # orange
 
                 ax.text(0.65,0.1, "C", size=20,
                         transform=ax.transAxes,
                         ha="center", va="center",
                         bbox=dict(boxstyle="round",
-                                  ec='red',
+                                  ec='#e76f51',
                                   fc='white',))   
 
             if file_index == 0:
