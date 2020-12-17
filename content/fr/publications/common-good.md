@@ -148,7 +148,7 @@ publiquement.
 <br>
 
 Comme le juriste Lawrence Lessig l’a remarqué dans son essai
-Code Is Law, les réelles possibilités de l’informatique sont définies par le
+*Code Is Law*, les réelles possibilités de l’informatique sont définies par le
 code. Le comportement des algorithmes est trop complexe et changeant pour
 espérer le contraindre par des lois. C’est en analysant le code source que l’on
 peut vérifier qu’un système ne dissimule pas d’intentions malicieuses ou ne
@@ -182,8 +182,8 @@ Le monde des échecs l’a échappé belle, car comme Google le
 fait déjà pour la recherche d’information ou comme Uber rêve de le faire pour
 l’ensemble du transport, les plateformes exercent dans leur domaine un contrôle
 presque total sur la redistribution du sens, de la liberté et, bien sûr, des
-revenus. Pour reprendre l’argumentaire de Jaron Lanier dans Who Owns the
-Future ?, leur pouvoir de concentration est tellement fort qu’il s’agit déjà
+revenus. Pour reprendre l’argumentaire de Jaron Lanier dans *Who Owns the
+Future ?*, leur pouvoir de concentration est tellement fort qu’il s’agit déjà
 d’un facteur important d’inégalité économique et, à long terme, jumelé à
 l’automatisation croissante des moyens de production, il s’agira d’une menace
 sérieuse à la stabilité de nos économies. Afin de renverser la tendance, Lanier
