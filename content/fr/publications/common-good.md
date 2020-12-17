@@ -14,6 +14,16 @@ Publié dans Liberté, no329
 <span style="font-size:80%; padding:10px; border:solid pink 2px">Bergeron, M. (2021). <a href="https://revueliberte.ca/article/1552/Le_bien_commun_%C3%A0_l_%C3%A8re_des_algorithmes" target="_blank">Le bien commun à l’ère des algorithmes.</a> Liberté, (329),47–49</span>
 </center>
 
+<br>
+<br>
+
+Présentation vidéo:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iUvxxLordhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
 ### Introduction
 
 Les années 1990 furent une période angoissante pour celles et ceux qui
