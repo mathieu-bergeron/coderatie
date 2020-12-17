@@ -21,6 +21,8 @@ Présentation vidéo:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUvxxLordhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+diapos: <a href="https://coderatie.org/decembre2020" target="_blank">coderatie.org/decembre2020</a>
 </center>
 
 
