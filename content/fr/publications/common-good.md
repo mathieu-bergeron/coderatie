@@ -46,6 +46,7 @@ l’humanité a perdu.  Ou du moins, c’est ce que l’on croyait.
 <img src="/images/bien-commun/graphe_un.png" width="49%"/>
 <img src="/images/bien-commun/graphe_deux.png" width="49%"/>
 </center>
+<br>
 
 En fait, la
 popularité du jeu a explosé après la défaite de Kasparov, comme le montrent les
@@ -96,6 +97,7 @@ patrimoine culturel de l’humanité, comme elle le fait déjà pour les échecs
 <center>
 <img src="/images/bien-commun/cadran_sens.png" width="90%"/>
 </center>
+<br>
 
 Malheureusement, l’apprentissage machine produit des systèmes efficaces, mais
 opaques. Sans efforts additionnels de recherche et développement, ces systèmes
@@ -143,6 +145,7 @@ publiquement.
 <center>
 <img src="/images/bien-commun/cadran_liberte.png" width="90%"/>
 </center>
+<br>
 
 Comme le juriste Lawrence Lessig l’a remarqué dans son essai
 Code Is Law, les réelles possibilités de l’informatique sont définies par le
@@ -194,6 +197,7 @@ et de Google.
 <center>
 <img src="/images/bien-commun/cadran_revenus.png" width="90%"/>
 </center>
+<br>
 
 
 Un tel renoncement pourrait s’avérer salutaire, car cette
