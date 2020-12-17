@@ -270,7 +270,7 @@ sont respectés là où ça compte : dans le code source.  Si la transition ver
 l’IA s’est avérée une réussite pour le monde des échecs, les facteurs
 expliquant cette réussite sont malheureusement absents de l’informatique qui
 domine à notre époque. Imaginer et bâtir un autre genre d’informatique est
-désormais une condition sine qua non de notre épanouissement individuel et
+désormais une condition *sine qua non* de notre épanouissement individuel et
 collectif. C’est aussi un défi de taille. Pour la recherche d’abord, où il
 faudra trouver comment harnacher la puissance de l’apprentissage machine tout
 en produisant des systèmes intelligibles et dignes de confiance, et pour l’État
