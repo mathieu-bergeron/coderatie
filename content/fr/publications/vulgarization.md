@@ -9,7 +9,7 @@ La technologie! C'est une chose trop grave pour la confier à des technologues.
 
 <!--more-->
 
-### Engin de changements cherche pilote
+### Engin cherche pilote, pilote cherche engin
 
 Dans un jeu, la liberté offerte aux participant.es est forcément plus limitée
 que celle dont on jouie lorsqu'on peut modifier les règles du jeu.
