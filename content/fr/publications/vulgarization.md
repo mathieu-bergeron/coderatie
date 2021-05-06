@@ -30,6 +30,12 @@ D'où le souci suivant: vu l'énorme impact qu'on les technologies sur la cultur
 
 ### Vulgariser ou dialoguer?
 
+Comprendre les contours de certaines technologies, en particulier des systèmes informatiques et des algorithmes.
+Essayer de voir l'espace des possibles entourant ce technologie.
+
+Dans certain milieu il est de bon ton de montrer du mépris envers la technologie, mais c'est une attitude à 
+décrier selon moi. On a besoin de plus de gens intéressé à critiquer de façon constructive
+
 La vulgarisation, c'est une invitation à sortir du jeu et à prendre part au grand dialogue
 mener par celles et ceux travaillent à en changer les règles.
 
