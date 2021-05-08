@@ -9,6 +9,22 @@ La technologie! C'est une chose trop grave pour la confier à des technologues.
 
 <!--more-->
 
+### Les deux tribus
+
+Dans mon expérience, c'est assez vrai qu'il y a deux grandes tribus: les sciences humaines et les arts d'un côté et les sciences de la nature et l'ingénierie de l'autre.
+Malheureusement, notre système d'éducation est organisé pour renforcer cette division plutôt que l'éliminer. Passons.
+
+
+
+Et je comprend, je suis comme ça.
+Pex. pour moi l'histoire de la philosophie n'a a peu près pas d'intérêt. 
+Le texte original de Kant n'a à peu près aucun intérêt.
+Ce qui m'intéresse, c'est les questions philosophiques: comment conceptualisé le libre arbirtre, l'éthique, etc.
+
+
+Si on veut des ingénieur.es plus sensibles aux questions humaines, il faut aussi adapté l'enseignement de la philo. 
+Mais ce n'est pas mon propos.
+
 ### Engin cherche pilote, pilote cherche engin
 
 Dans un jeu, la liberté offerte aux participant.es est forcément plus limitée
@@ -43,5 +59,7 @@ Vulgariser, c'est tenter de contrer la pensée voulant que la technologie est un
 peut manoeuvrer à l'intérieur des règles du jeu établi par la technique.
 
 ### L'incroyable opportunité offerte par le code
+
+Évidemment, ce n'est pas si simple.
 
 
