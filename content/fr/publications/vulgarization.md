@@ -5,7 +5,7 @@ slug: "vulgarisation"
 draft: true
 ---
 
-La technologie! C'est une chose trop grave pour la confier à des technologues.
+La technologie! C'est une chose trop grave pour la confier à des ingénieurs.
 
 <!--more-->
 
