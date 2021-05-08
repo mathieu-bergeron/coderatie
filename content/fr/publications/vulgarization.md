@@ -11,12 +11,17 @@ La technologie! C'est une chose trop grave pour la confier à des technologues.
 
 ### Les deux tribus
 
+Deux vastes contrées.
+
 Deux tribus intellectuelles. La première est celle des gens de lettre, 
-pour qui la pensée s'articule principalement à travers une langue naturelle comme le français
+qui articule leur pensée principalement à travers une langue naturelle comme le français
 (on peut penser aux sciences humaines, aux arts, mais aussi au Droit).  L'autre
 tribu est celle des gens de mathétique, pour qui le travail intellectuel
 s'effectue en grande partie à travers une notation formelle, des modèles, des simluations,
 (on peut penser aux sciences de la nature et à l'ingénierie).
+
+Poste frontalier: échanges, dialogues.
+
 
 
 
