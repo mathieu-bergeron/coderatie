@@ -11,6 +11,27 @@ La technologie! C'est une chose trop grave pour la confier à des ingénieurs.
 
 ### Les deux tribus
 
+Distribuer la liberté. Pour moi, ça évoque tout de suite les concepts de
+système distribué et de distribution de probabilités, et donc ça évoque
+d'emblée quelque chose comme «s'assurer que tous les participant.es jouissent
+d'une liberté d'action similaire (ou à tout le moins que les disparités ne
+soient pas trop grandes), afin de rendre possible la collaboration à grande
+échelle et afin que les décisions collectives soient légitimes».  Mais j'ai
+l'impression que pour les gens de lettre, la connotation immédiate serait
+plutôt: «faire du porte à porte et remettre des petites boîtes de liberté».  Le
+problème n'est pas que dans le mot «distribution», je pense que l'idée même de
+quantifier la liberté est assez naturelle pour les gens de mathématique, mais
+plutôt étrange pour les gens de lettre (et peut-être même insultante?).
+
+Il y a aussi probablement une différence plus profonde. Pour les gens
+de mathématique, il est assez évident qu'on peut, au moins en théorie, 
+quantifier la liberté, et donc réfléchir en terme assez précis à comment un 
+certain environnement 
+
+C'est aussi pour ça que j'esquive le terme pouvoir: c'est simplement une distribution inégale de la liberté.
+
+
+
 Deux vastes contrées.
 
 Deux tribus intellectuelles. La première est celle des gens de lettre, 
