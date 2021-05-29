@@ -11,7 +11,7 @@ En impliquant les citoyen·nes dans le développement des systèmes informatique
 
 Les systèmes informatiques ne sont pas des outils inertes.  
 Ils sont des interlocuteurs capables [d'interpréter l'information]({{<ref "understanding-the-world">}}),
-de s'en servir pour la modifier et pour prendre des décisions.
+de la modifier et de s'en servir pour prendre des décisions.
 
 Nos applications ne font pas que permettre les communications
 interpersonelles à large échelle, mais influencent (et parfois dictent) les
