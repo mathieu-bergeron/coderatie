@@ -48,12 +48,13 @@ Une masse critique d'individus aptes à comprendre le code source permettra l'é
 et pourrait même, à terme, jeter les bases d'une [nouvelle démocracie]({{<ref reinventing-democracy>}}).
 
 En ce moment, le taux de codératie est si bas qu'à peu près tous les
-programmeurs sont affairés à créer des systèmes informatiques, ce qui en laisse
+programmeurs/programmeuses sont affairé·es à créer des systèmes informatiques, ce qui en laisse
 très peu pour les vulgariser, les critiquer et réfléchir aux enjeux qu'ils
-soulèvent. C'est comme si tous les juristes au monde étaient des législateurs:
+soulèvent. C'est comme si tous les juristes au monde étaient des législateurs/législatrices:
 il ne resterait personne pour lire les lois, les critiquer et les vulgariser.
 
-Autrement dit: les systèmes informatiques sont devenus des lois de facto dans nos sociétés modernes. Le citoyen devrait pouvoir lire ses lois.
+Autrement dit: les systèmes informatiques sont devenus des lois de facto dans
+nos sociétés modernes. Le citoyen devrait pouvoir lire ses lois.
 
 
 ### Les principaux bloquants à surmonter
@@ -62,7 +63,8 @@ Pour plusieurs, utiliser un ordinateur est déjà une source d'anxiété et de f
 malgré les meilleurs efforts des géants de l'informatique à créer des applications attrayantes et intuitives.
 Il est tout à fait compréhensible que l'idée d'ajouter une couche de complexité supplémentaire soit à première vue rebutante.
 En réalité, comprendre le code permet d'utiliser des outils informatiques à la fois [plus simples et plus puissants]({{<ref empowerment>}}),
-alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la liberté des usagers.
+alors que la convivialité des logiciels grand public cache trop souvent des restrictions à la liberté des
+utilisateurs/utilisatrices.
 
 Néanmoins, il existe des obstacles bien réels à l'apprentissage de la programmation.
 
@@ -72,7 +74,7 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
 1. Sémantique contre-intuitive
     * contrairement au sens d'une phrase, le sens d'un programme est dynamique 
     * pour le comprendre, il faut imaginer son comportement dans le temps
-    * relier ce comportement au code est un défi, particulièrement pour les débutants
+    * relier ce comportement au code est un défi, particulièrement pour les débutant·es
 1. Lourdeur des outils
     * il y a beaucoup à faire avant même d'écrire du code:
         * plusieurs outils à installer et configurer
@@ -84,7 +86,7 @@ Néanmoins, il existe des obstacles bien réels à l'apprentissage de la program
 À noter que les obstacles ci-haut concernent surtout les langages de
 programmation généralistes qui s'adressent à des
 programmeurs professionnels. Il existe déjà des langages conçus pour les
-débutants qui réduisent significativement ces difficultés.
+débutant·es qui réduisent significativement ces difficultés.
 
 <!--
 

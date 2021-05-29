@@ -63,7 +63,7 @@ culturel de l'humanité.
 
 Prenons l'exemple des algorithmes capablent de <a
 href="https://www.radiologybusiness.com/topics/artificial-intelligence/hello-ai-goodbye-radiology-we-know-it"
-target="_blank">diagnostiquer différentes pathologie à partir d'imageries
+target="_blank">diagnostiquer différentes pathologies à partir d'imageries
 médicales 🔗</a>.  Même si ces algorithmes sont plus performants que les
 radiologistes humains, nous devons continuer à apprendre et enseigner la
 radiologie.  L'expertise humaine est essentielle si on veut accompagner les
@@ -84,7 +84,7 @@ débuter illico des traitements éprouvants?
 L'IA des médias sociaux est trop superficielle pour détecter les fameuses fausses nouvelles.
 Pour lutter contre ces fausses nouvelles (et autres assauts à la dignité humaine), il faudrait que cette IA soit
 développée de façon beaucoup plus transparente, devenant ainsi le résultat d'une collaboration à large échelle
-entre informaticiens, juristes, linguistes, artistes, pédagogues, etc.
+entre informaticien·nes, juristes, linguistes, artistes, pédagogues, etc.
 Bref, la responsabilité d'améliorer les algorithmes devrait être partagée et les systèmes informatiques devraient faciliter la participation d'experts humains à 
 l'analyse des données. 
 C'est de cette façon que nous obtiendrons des IA plus nuancées, moins biaisées, et servant d'alliées aux humains dans leur quête de compréhension du monde.
