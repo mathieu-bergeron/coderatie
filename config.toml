@@ -24,12 +24,12 @@ ignoreFiles = [ "decembre2020" ]
         [languages.en.menu]
             [[languages.en.menu.main]]
                 identifier = "stakes"
-                name = "What's at stake"
+                name = "At stake"
                 url = "/stakes"
                 weight=5
             [[languages.en.menu.main]]
                 identifier = "vision"
-                name = "Our vision"
+                name = "Vision"
                 url = "/vision"
                 weight=10
             [[languages.en.menu.main]]
@@ -57,12 +57,12 @@ ignoreFiles = [ "decembre2020" ]
         [languages.fr.menu]
             [[languages.fr.menu.main]]
                 identifier = "stakes"
-                name = "Les enjeux"
+                name = "Enjeux"
                 url = "/les-enjeux"
                 weight=5
             [[languages.fr.menu.main]]
                 identifier = "vision"
-                name = "Notre vision"
+                name = "Vision"
                 url = "/vision"
                 weight=10
             [[languages.fr.menu.main]]

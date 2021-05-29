@@ -6,7 +6,7 @@ slug: "vision"
 ---
 
 
-* Promouvoir et défendre la codératie (capacité à comprendre le code source)
+* Il faut promouvoir et défendre la codératie (capacité à comprendre le code source)
 
 * Quand la codératie aura atteint un niveau critique dans la population, les
   outils informatiques seront très différents de ceux que nous connaissons
