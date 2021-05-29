@@ -29,7 +29,7 @@ privatrice).
 La réelle réponse ne sera accessible à l'humanité qu'une fois un taux critique
 de codératie atteint: briser les plateformes en mille morceaux et laisser
 chacun créer ses propres outils informatiques en recombinant ces morceaux.
-C'est souvent ce que les programmeurs font.  Cette <a
+C'est souvent ce que les programmeurs/programmeuses font.  Cette <a
 href="https://fr.wikipedia.org/wiki/Philosophie_d%27Unix"
 target="_blank">vision 🔗</a> a d'ailleurs été énoncée clairement très tôt dans
 la courte vie de l'informatique:
@@ -55,7 +55,7 @@ d'effectuer une redistribution directe des revenus.
 
 Nous pourrons préserver un maximum de liberté pour les usagers, tout en
 s'assurant que l'exécution du code s'accompagne d'informations visant à
-rémunérer les créateurs du code et à effectuer une redistribution
+rémunérer les créateurs/créatrices du code et à effectuer une redistribution
 des revenus.
 
 Il s'agit là d'une base beaucoup plus solide pour la nouvelle économie,
@@ -80,7 +80,7 @@ Encore faut-il [continuer à les former]({{<ref understanding-the-world>}}).
 
 Comme nous l'envisageons ici, les radiologistes gagneraient aussi une nouvelle
 opportunité de revenus: l'amélioration des algorithmes.  Grace à leur
-codératie, ces derniers pourraient manipuler eux-mêmes différents algorithmes,
+codératie, ils/elles pourraient manipuler les différents algorithmes,
 les comparer, étudier leur fonctionnement et, finalement, proposer des
 améliorations.  Ces améliorations seraient rémunérées directement lors de
 l'utilisation des algorithmes améliorés.

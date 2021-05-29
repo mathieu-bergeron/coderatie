@@ -4,14 +4,14 @@ date: 2020-08-03T12:50:58-04:00
 slug: "reinventer-la-democratie"
 ---
 
-En impliquant les citoyennes et les citoyens dans le développement des systèmes informatiques.
+En impliquant les citoyen·nes dans le développement des systèmes informatiques.
 <!--more-->
 
 ### Quand les algorithmes décident
 
 Les systèmes informatiques ne sont pas des outils inertes.  
 Ils sont des interlocuteurs capables [d'interpréter l'information]({{<ref "understanding-the-world">}}),
-de s'en servir pour prendre des décisions et de la modifier.
+de s'en servir pour la modifier et pour prendre des décisions.
 
 Nos applications ne font pas que permettre les communications
 interpersonelles à large échelle, mais influencent (et parfois dictent) les
