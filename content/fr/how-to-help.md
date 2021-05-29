@@ -13,7 +13,7 @@ slug: "comment-aider"
   
 * Toujours parmi nous? Bien. On a besoin de votre énergie et de votre créativité.
 
-* [Nous contacter](/apropos)
+* [Contacter l'auteur](/apropos)
 
 <h3 id="lois"> Comme citoyen, politicienne ou juriste </h3>
 
@@ -22,7 +22,7 @@ slug: "comment-aider"
     1. L'enseignement de la programmation à tous les niveaux
     1. Un cadre législatif augmentant significativement l'accès au code source
       des systèmes commerciaux (p.ex. en donnant le pouvoir à des
-      scrutateurs indépendants d'inspecter le code source de n'importe quel
+      scrutateurs/scrutatrices indépendant·es d'inspecter le code source de n'importe quel
       système touchant le grand public)
     1. Un accès complet au code source de n'importe quel système informatique
       dont le développement est financé par l'État
@@ -50,11 +50,11 @@ slug: "comment-aider"
     1. Techniques et langages de programmation qui supportent:
         * [L'enseignement]({{<ref research-project>}})
         * L'extraction et l'explication des portions clés d'un programme (les
-          endroits qui prennent des décisions impliquant les usagers).
+          endroits qui prennent des décisions impliquant les utilisateurs/utilisatrices).
         * Délibération: mener des débats à propos du code directement à même le
           code (pas dans les commentaires)
         * Micropaiments: charger des micro-montants pour l'exécution du code et
-          verser des micros-dividendes aux développeurs, proportionnellement à
+          verser des micros-dividendes aux développeur·es, proportionnellement à
           leurs contributions (il faudra penser à l'équité et à la sécurité
           d'un tel système, tout en préservant un maximum de liberté pour
           l'usager. La seule liberté que l'usager devrait concéder est celle

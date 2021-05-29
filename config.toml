@@ -24,7 +24,7 @@ ignoreFiles = [ "decembre2020" ]
         [languages.en.menu]
             [[languages.en.menu.main]]
                 identifier = "stakes"
-                name = "At stake"
+                name = "Stakes"
                 url = "/stakes"
                 weight=5
             [[languages.en.menu.main]]
